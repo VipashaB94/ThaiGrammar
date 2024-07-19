@@ -1,0 +1,138 @@
+1@b@@@1@svc@สุรี วิ่ง มา@@@@1@3@Suri run comeSuri ran towards the speaker@vipasha bansal@april 10, 2023
+2@author@@@1@svc@สุรี วิ่ง มา บ้าน@@@@1@4@Suri run come home‘Suri ran home towards the speaker’@vipasha bansal@april 10, 2023
+3@b@@@1@svc@สุรี เดิน ไป@@@@1@3@Suri walk go‘Suri walked away from the speaker’@vipasha bansal@april 10, 2023
+4@author@@@1@svc@สุรี เดิน ไป บ้าน@@@@1@4@Suri walk go home‘Suri walked home away from the speaker’@vipasha bansal@april 10, 2023
+5@author@@@1@svc@สุรี กำลัง วิ่ง มา@@@@1@4@Suri PROG run come‘Suri is running towards the speaker’@vipasha bansal@april 10, 2023
+6@author@@@1@svc@สุรี จะ เดิน ไป บ้าน@@@@1@5@Suri FUT walk go home‘Suri will walk home, away from the speaker’@vipasha bansal@april 10, 2023
+7@author@@@1@svc@สุรี ไม่ วิ่ง มา@@@@1@4@Suri	NEG 	run 	comeSuri did not run towards the speaker@vipasha bansal@april 10, 2023
+8@author@@@1@svc@สุรี ไม่ วิ่ง มา บ้าน@@@@1@5@Suri NEG run come homeSuri did not run home towards the speaker@vipasha bansal@april 10, 2023
+9@author@@@1@svc@สุรี ขี่ ม้า ไป@@@@1@4@Suri ride horse goSuri rode a horse away from the speaker@vipasha bansal@april 10, 2023
+10@author@@@1@svc@สุรี ขี่ ม้า ไป บ้าน@@@@1@5@Suri ride horse go homeSuri rode a horse home (away from the speaker)@vipasha bansal@april 10, 2023
+11@author@@@1@svc@สุรี ขับ รถ มา@@@@1@4@Suri drive car comeSuri drove a car towards the speaker@vipasha bansal@april 10, 2023
+12@author@@@1@svc@สุรี ขับ รถ มา บ้าน@@@@1@5@Suri drive car come homeSuri drove a car home (towards the speaker)@vipasha bansal@april 10, 2023
+13@author@@@1@svc@สุรี กำลัง วิ่ง กำลัง มา@@@@0@5@Suri PROG run PROG come‘Suri is running towards the speaker’@vipasha bansal@april 10, 2023
+14@author@@@1@svc@สุรี วิ่ง กำลัง มา@@@@0@4@Suri run PROG come‘Suri is running towards the speaker’@vipasha bansal@april 10, 2023
+15@author@@@1@svc@สุรี กำลัง วิ่ง จะ มา@@@@0@5@Suri PROG run FUT come‘Suri is running and will be coming towards the speaker’@vipasha bansal@april 10, 2023
+16@author@@@1@svc@สุรี กำลัง เดิน กำลัง ไป บ้าน@@@@0@6@Suri PROG walk PROG go home‘Suri is walking home, away from the speaker’@vipasha bansal@april 10, 2023
+17@author@@@1@svc@สุรี เดิน กำลัง ไป บ้าน@@@@0@5@Suri walk PROG go home‘Suri is walking home, away from the speaker’@vipasha bansal@april 10, 2023
+18@author@@@1@svc@สุรี กำลัง เดิน จะ ไป บ้าน@@@@0@6@Suri PROG walk FUT go home‘Suri is walking home and will be going away from the speaker’@vipasha bansal@april 10, 2023
+19@author@@@1@svc@สุรี วิ่ง ไม่ มา บ้าน@@@@0@5@Suri run NEG come homeSuri did not run home towards the speaker@vipasha bansal@april 10, 2023
+20@author@@@1@svc@สุรี ไม่ วิ่ง ไม่ มา บ้าน@@@@0@6@Suri NEG run NEG come homeSuri did not run home towards the speaker@vipasha bansal@april 10, 2023
+21@e@@@1@svc@สุรี ข้าม สะพาน ไป บ้าน@@@@1@5@Suri cross bridge go home‘Suri crossed the bridge going home (away from the speaker)’@vipasha bansal@april 10, 2023
+22@e@@@1@svc@สุรี ข้าม ไป@@@@1@3@Suri cross go‘Suri crossed away from the speaker’@vipasha bansal@april 10, 2023
+23@e@@@1@svc@สุรี ข้าม สะพาน ไป@@@@1@4@Suri cross bridge go‘Suri crossed the bridge away from the speaker’@vipasha bansal@april 10, 2023
+24@e@@@1@svc@สุรี ข้าม ไป บ้าน@@@@1@4@Suri cross go home‘Suri crossed, going home (away from the speaker)’@vipasha bansal@april 10, 2023
+25@e@@@1@svc@สุรี กลับ มา บ้าน@@@@1@4@Suri return come home‘Suri returned home towards the speaker’@vipasha bansal@april 10, 2023
+26@e@@@1@svc@สุรี กลับ มา@@@@1@3@Suri return come‘Suri returned towards the speaker’@vipasha bansal@april 10, 2023
+27@e@@@1@svc@เขา เข้า ห้อง ไป@@@@1@4@3sg enter room go‘He entered the room (moving away from the speaker)’@vipasha bansal@april 10, 2023
+28@author@@@1@svc@สุรี กำลัง ข้าม สะพาน	 ไป บ้าน@@@@1@6@Suri PROG cross bridge go home‘Suri is crossing the bridge going home (away from the speaker)’@vipasha bansal@april 10, 2023
+29@author@@@1@svc@สุรี จะ ข้าม ไป@@@@1@4@Suri FUT cross go‘Suri will cross away from the speaker’@vipasha bansal@april 10, 2023
+30@author@@@1@svc@สุรี ไม่ ข้าม สะพาน ไป บ้าน@@@@1@6@Suri NEG cross bridge go homeSuri did not cross the bridge going home (away from the speaker)@vipasha bansal@april 10, 2023
+31@author@@@1@svc@สุรี ไม่ ข้าม สะพาน ไป@@@@1@5@Suri NEG cross bridge goSuri did not cross the bridge away from the speaker@vipasha bansal@april 10, 2023
+32@author@@@1@svc@สุรี ไม่ ข้าม ไป@@@@1@4@Suri NEG cross goSuri did not cross away from the speaker@vipasha bansal@april 10, 2023
+33@author@@@1@svc@สุรี กำลัง ข้าม สะพาน	 กำลัง ไป บ้าน@@@@0@7@Suri PROG cross bridge PROG go home‘Suri is crossing the bridge going home (away from the speaker)’@vipasha bansal@april 10, 2023
+34@author@@@1@svc@สุรี ข้าม สะพาน กำลัง ไป บ้าน@@@@0@6@Suri cross bridge PROG go home‘Suri is crossing the bridge going home (away from the speaker)’@vipasha bansal@april 10, 2023
+35@author@@@1@svc@สุรี กำลัง ข้าม สะพาน จะ ไป บ้าน@@@@0@7@Suri PROG cross bridge FUT go home‘Suri is crossing the bridge and will go home (away from the speaker)’@vipasha bansal@april 10, 2023
+36@author@@@1@svc@สุรี จะ ข้าม จะ ไป@@@@0@5@Suri FUT cross FUT go‘Suri will cross away from the speaker’@vipasha bansal@april 10, 2023
+37@author@@@1@svc@สุรี ข้าม จะ ไป@@@@0@4@Suri cross FUT go‘Suri will cross away from the speaker’@vipasha bansal@april 10, 2023
+38@author@@@1@svc@สุรี จะ ข้าม กำลัง ไป@@@@0@5@Suri FUT cross PROG go‘Suri will cross and is going away from the speaker’@vipasha bansal@april 10, 2023
+39@author@@@1@svc@สุรี ไม่ ข้าม สะพาน ไม่ ไป@@@@0@6@Suri NEG cross bridge NEG goSuri did not cross the bridge away from the speaker@vipasha bansal@april 10, 2023
+40@author@@@1@svc@สุรี ข้าม สะพาน ไม่ ไป@@@@0@5@Suri	cross	bridge	NEG	goSuri did not cross the bridge away from the speaker@vipasha bansal@april 10, 2023
+41@a@@@1@svc@สุรี มา คุย กับ ฉัน@@@@1@5@Suri come talk with I‘Suri came to talk with me’@vipasha bansal@april 10, 2023
+42@e@@@1@svc@สุรี ไป ซื้อ หนังสือ@@@@1@4@Suri go buy book‘Suri went to buy a book’@vipasha bansal@april 10, 2023
+43@e@@@1@svc@เขา ไป เข้า ห้อง@@@@1@4@3sg go enter room‘He went to enter the room’@vipasha bansal@april 10, 2023
+44@e@@@1@svc@สุรี มา ยืม เงิน@@@@1@4@Suri come borrow money‘Suri came to borrow money’@vipasha bansal@april 10, 2023
+45@author@@@1@svc@สุรี กำลัง มา ยืม เงิน@@@@1@5@Suri PROG come borrow money‘Suri is coming to borrow money’@vipasha bansal@april 10, 2023
+46@author@@@1@svc@สุรี จะ ไป ซื้อ หนังสือ@@@@1@5@Suri FUT go buy book‘Suri will go to buy a book’@vipasha bansal@april 10, 2023
+47@author@@@1@svc@สุรี ไม่ ไป ซื้อ หนังสือ@@@@1@5@Suri NEG go buy book‘Suri did not go to buy a book’@vipasha bansal@april 10, 2023
+48@author@@@1@svc@สุรี ไป ล้ม@@@@0@3@Suri go fall‘Suri went to fall’@vipasha bansal@april 10, 2023
+49@author@@@1@svc@สุรี มา พบ หนังสือ@@@@0@4@Suri come find book‘Suri came to find the book’@vipasha bansal@april 10, 2023
+50@author@@@1@svc@สุรี กำลัง ไป กำลัง ซื้อ หนังสือ@@@@0@6@Suri PROG go PROG buy book‘Suri is going to buy a book’@vipasha bansal@april 10, 2023
+51@author@@@1@svc@สุรี ไป กำลัง ซื้อ หนังสือ@@@@0@5@Suri go PROG buy book‘Suri is going to buy a book’@vipasha bansal@april 10, 2023
+52@author@@@1@svc@สุรี กำลัง ไป จะ ซื้อ หนังสือ@@@@0@6@Suri PROG go FUT buy book‘Suri is going and will by a book’@vipasha bansal@april 10, 2023
+53@author@@@1@svc@สุรี ไม่ ไป ไม่ ซื้อ หนังสือ@@@@0@6@Suri NEG go NEG buy book‘Suri did not go to buy a book’@vipasha bansal@april 10, 2023
+54@author@@@1@svc@สุรี ไป ไม่ ซื้อ หนังสือ@@@@0@5@Suri go NEG buy book‘Suri did not go to buy a book’@vipasha bansal@april 10, 2023
+55@elicited@@@1@svc@สุรี กิน งู ตาย@@@@1@4@Suri eat snake die‘Suri ate a snake and so Suri died/Suri ate a snake and so the snake died’@vipasha bansal@april 10, 2023
+56@a@@@1@svc@สุรี ตี งู ตาย@@@@1@4@Suri hit snake die‘Suri hit a snake and so Suri died/Suri hit a snake and so the snake died’@vipasha bansal@april 10, 2023
+57@e@@@1@svc@สุรี ยิง นก ตาย@@@@1@4@Suri shoot bird die‘Suri shot the bird therefore the bird died’@vipasha bansal@april 10, 2023
+58@b@@@1@svc@วัว ขวิด ควาย ตาย@@@@1@4@ox butt buffalo die‘The ox butted the buffalo therefore the ox died/The ox butted the buffalo therefore the buffalo died’@vipasha bansal@april 10, 2023
+59@a@@@1@svc@สุรี กิน ข้าว อิ่ม@@@@1@4@Suri eat rice be.full‘Suri ate rice therefore she was full’@vipasha bansal@april 10, 2023
+60@a@@@1@svc@สุรี กิน ข้าว หมด@@@@1@4@Suri eat rice be.gone‘Suri ate rice therefore the rice was gone’@vipasha bansal@april 10, 2023
+61@b@@@1@svc@สุรี ผลัก วิรัช ลม@@@@1@4@Suri push Wirat fall‘Suri pushed Wirat therefore Wirat fell’@vipasha bansal@april 10, 2023
+62@b@@@1@svc@สุรี ขี่ ม้า เหนื่อย@@@@1@4@Suri ride horse be.tired‘Suri rode a horse therefore she was tired/Suri rode a horse therefore the horse was tired’@vipasha bansal@april 10, 2023
+63@a@@@1@svc@สุรี กวาด บ้าน สะอาด@@@@1@4@Suri sweep house clean‘Suri swept the house therefore the house was clean’@vipasha bansal@april 10, 2023
+64@a@@@1@svc@สุรี เป่า เทียน ดับ@@@@1@4@Suri blow candle be.extinguished‘Suri blew the candle therefore the candle was extinguished’@vipasha bansal@april 10, 2023
+65@a@@@1@svc@สุรี ทำ งาน เบื่อ@@@@1@4@Suri do work be.bored‘Suri did work and therefore was bored’@vipasha bansal@april 10, 2023
+66@e@@@1@svc@สุรี ทุบ กล่อง แบน@@@@1@4@Suri hit box flat‘Suri hit the box therefore the box was flat’@vipasha bansal@april 10, 2023
+67@e@@@1@svc@ลม พัด หลังคา บ้าน ปลิว@@@@1@5@wind blow roof house blow.away‘The wind blew on the roof of the house, therefore it blew away’@vipasha bansal@april 10, 2023
+68@e@@@1@svc@สุรี เตะ ประตู เปิด@@@@1@4@Suri kick door open‘Suri kicked the door therefore it opened’@vipasha bansal@april 10, 2023
+69@e@@@1@svc@เขา ดื่ม เหล้า เมา@@@@1@4@3sg drink alcohol drunk‘He drank alcohol and was therefore drunk’@vipasha bansal@april 10, 2023
+70@e@@@1@svc@สุรี ตี หมา วิ่ง@@@@1@4@Suri hit dog runSuri hit the dog therefore the dog ran@vipasha bansal@april 10, 2023
+71@e@@@1@svc@สุรี ตี หมา ร้องไห้@@@@1@4@Suri	hit	dog	crySuri hit the dog therefore the dog cried@vipasha bansal@april 10, 2023
+72@e@@@1@svc@เสือ ไล่ สุรี วิ่ง@@@@1@4@tiger chase Suri run‘A tiger chase Suri therefore Suri ran’@vipasha bansal@april 10, 2023
+73@e@@@1@svc@เสือ ไล่ สุรี ร้องไห้@@@@1@4@tiger chase Suri cry‘A tiger chased Suri therefore Suri cried’@vipasha bansal@april 10, 2023
+74@e@@@1@svc@สุรี กิน ข้าว ไม่ อิ่ม@@@@1@5@Suri eat rice NEG be.fullSuri ate rice but was not full@vipasha bansal@april 10, 2023
+75@e@@@1@svc@สุรี ตี งู ไม่ ตาย@@@@1@5@Suri hit snake NEG dieSuri hit the snake but it did not die@vipasha bansal@april 10, 2023
+76@a@@@1@svc@ขวด ระเบิด แตก@@@@1@3@bottle explode break‘The bottle exploded and therefore broke’@vipasha bansal@april 10, 2023
+77@e@@@1@svc@ขวด ตก แตก@@@@1@3@bottle fall break‘The bottle fell and therefore broke’@vipasha bansal@april 10, 2023
+78@a@@@1@svc@ฉัน วิ่ง เหนื่อย@@@@1@3@I run be.tired‘I ran and therefore was tired’@vipasha bansal@april 10, 2023
+79@e@@@1@svc@สุรี ป่วย ตาย@@@@1@3@Suri sick die‘Suri was sick therefore died’@vipasha bansal@april 10, 2023
+80@e@@@1@svc@เด็ก ล้ม ร้องไห้@@@@1@3@child fall cry‘Suri fell therefore cried’@vipasha bansal@april 10, 2023
+81@e@@@1@svc@สุรี ลื่น ล้ม@@@@1@3@Suri slide fallSuri slid and therefore fell@vipasha bansal@april 10, 2023
+82@author@@@1@svc@สุรี เหนื่อย	 นั่ง@@@@0@3@Suri be.tired sit‘Suri was tired therefore she sat’@vipasha bansal@april 10, 2023
+83@author@@@1@svc@สุรี หิว กิน@@@@0@3@Suri be.hungry	eatSuri was hungry therefore she ate@vipasha bansal@april 10, 2023
+84@author@@@1@svc@สุรี ไม่ กิน ข้าว ไม่ อิ่ม@@@@0@6@Suri NEG eat rice NEG be.fullSuri did not eat rice and was not full@vipasha bansal@april 10, 2023
+85@author@@@1@svc@สุรี ไม่ กิน ข้าว อิ่ม@@@@0@5@Suri NEG eat rice be.fullSuri did not eat rice and was not full@vipasha bansal@april 10, 2023
+86@author@@@1@svc@เด็ก ไม่ ล้ม ไม่ ร้องไห้@@@@0@5@child NEG fall NEG cryThe child did not fall and did not cry@vipasha bansal@april 10, 2023
+87@author@@@1@svc@สุรี ไม่ ตี งู ตาย@@@@0@5@Suri NEG hit snake dieSuri did not hit the snake and the snake did not die/Suri hit the snake but it did not die@vipasha bansal@april 10, 2023
+88@author@@@1@svc@สุรี ไม่ ตี งู ไม่ ตาย@@@@0@6@Suri NEG hit snake NEG dieSuri did not hit the snake and it did not die@vipasha bansal@april 10, 2023
+89@b@@@1@svc@สุรี ยืน เคาะ ประตู@@@@1@4@Suri stand knock door‘Suri knocked on the door while standing’@vipasha bansal@april 10, 2023
+90@e@@@1@svc@สุรี ยืน ร้องเพลง@@@@1@3@Suri stand sing‘Suri sang while standing’@vipasha bansal@april 10, 2023
+91@elicited@@@1@svc@สุรี เดิน อ่าน หนังสือ@@@@1@4@Suri walk read book‘Suri read a book while walking’@vipasha bansal@april 10, 2023
+92@e@@@1@svc@สุรี เดิน ร้องไห้@@@@1@3@Suri walk cry‘Suri cried while walking’@vipasha bansal@april 10, 2023
+93@e@@@1@svc@สุรี นั่ง ทำ การบ้าน@@@@1@4@Suri sit do homework‘Suri sat while doing homework’@vipasha bansal@april 10, 2023
+94@e@@@1@svc@สุรี นั่ง วิตก@@@@1@3@Suri sit worry‘Suri sits and worries’@vipasha bansal@april 10, 2023
+95@e@@@1@svc@สุรี นั่ง เขียน@@@@1@3@Suri sit write‘Suri wrote while sitting’@vipasha bansal@april 10, 2023
+96@e@@@1@svc@สุรี ยืน พูด@@@@1@3@Suri stand speak‘Suri spoke while standing’@vipasha bansal@april 10, 2023
+97@d@@@1@svc@สุรี ชะโงก	 มอง@@@@1@3@Suri lean.out stare‘Suri leaned out and stared’@vipasha bansal@april 10, 2023
+98@elicited@@@1@svc@สุรี เดิน กิน ข้าว@@@@1@4@Suri walk eat rice‘Suri walked and ate rice’@vipasha bansal@april 10, 2023
+99@author@@@1@svc@สุรี กำลัง ยืน ร้องเพลง@@@@1@4@Suri PROG stand sing‘Suri is singing while standing’@vipasha bansal@april 10, 2023
+100@author@@@1@svc@สุรี จะ เดิน อ่าน หนังสือ@@@@1@5@Suri FUT walk read book‘Suri will read a book while walking’@vipasha bansal@april 10, 2023
+101@author@@@1@svc@สุรี ไม่ ยืน ร้องเพลง@@@@1@4@Suri NEG stand singSuri did not sing while standing@vipasha bansal@april 10, 2023
+102@e@@@1@svc@สุรี ร้องเพลง ยืน@@@@0@3@Suri sing stand‘Suri sang while standing’@vipasha bansal@april 10, 2023
+103@author@@@1@svc@สุรี นั่ง ยืน@@@@0@3@Suri sit stand‘Suri stood while sitting’@vipasha bansal@april 10, 2023
+104@author@@@1@svc@สุรี ยืน วิ่ง@@@@0@3@Suri stand run‘Suri ran while standing’@vipasha bansal@april 10, 2023
+105@author@@@1@svc@สุรี กิน ไป@@@@0@3@Suri eat go‘Suri went while eating’@vipasha bansal@april 10, 2023
+106@author@@@1@svc@สุรี เดิน วิ่ง@@@@0@3@Suri walk run‘Suri ran while walking’@vipasha bansal@april 10, 2023
+107@author@@@1@svc@สุรี ร้องเพลง ข้าม สะพาน@@@@0@4@Suri sing cross bridge‘Suri sang while crossing the bridge’@vipasha bansal@april 10, 2023
+108@author@@@1@svc@สุรี ข้าม สะพาน ร้องเพลง@@@@0@4@Suri cross bridge sing‘Suri sang while crossing the bridge’@vipasha bansal@april 10, 2023
+109@author@@@1@svc@สุรี นั่ง เหนื่อย@@@@0@3@Suri sit be.tiredSuri sat while tired/Suri sat then was tired/Suri sat and was therefore tired@vipasha bansal@april 10, 2023
+110@author@@@1@svc@สุรี กำลัง ยืน กำลัง ร้องเพลง@@@@0@5@Suri PROG stand PROG sing‘Suri is singing while standing’@vipasha bansal@april 10, 2023
+111@author@@@1@svc@สุรี ยืน กำลัง ร้องเพลง@@@@0@4@Suri stand PROG sing‘Suri is singing while standing’@vipasha bansal@april 10, 2023
+112@author@@@1@svc@สุรี กำลัง ยืน จะ ร้องเพลง@@@@0@5@Suri PROG stand FUT sing‘Suri is standing and will sing’@vipasha bansal@april 10, 2023
+113@e@@@1@svc@สุรี สะอึก ร้องไห้@@@@0@3@Suri hiccup cry‘Suri cried while hiccupping’@vipasha bansal@april 10, 2023
+114@e@@@1@svc@สุรี ร้องไห้ เดิน@@@@0@3@Suri cry walk‘Suri cried while walking’@vipasha bansal@april 10, 2023
+115@e@@@1@svc@สุรี ไม่ ยืน	ไม่ ร้องเพลง@@@@0@5@Suri NEG stand NEG singSuri did not stand while singing@vipasha bansal@april 10, 2023
+116@e@@@1@svc@สุรี ยืน ไม่ ร้องเพลง@@@@0@4@Suri stand NEG singSuri did not stand while singing@vipasha bansal@april 10, 2023
+117@b@@@1@svc@สุรี ผัด ข้าว กิน@@@@1@4@Suri fry rice eat‘Suri fried rice to eat (rice)/Suri fried rice then ate (rice)’@vipasha bansal@april 10, 2023
+118@e@@@1@svc@สุรี ซื้อ หนังสือ อ่าน@@@@1@4@Suri buy book read‘Suri bought a book to read (the book)/Suri bought a book then read (the book)’@vipasha bansal@april 10, 2023
+119@e@@@1@svc@สุรี หา งาน ทำ@@@@1@4@Suri seek work do‘Suri sought a job to do (the job)’@vipasha bansal@april 10, 2023
+120@e@@@1@svc@ตำรวจ ไล่ ขโมย ทัน@@@@1@4@police chase thief catch‘The police chased the thief to catch (the thief)/The police chased the thief and caught (the thief)’@vipasha bansal@april 10, 2023
+121@author@@@1@svc@สุรี กำลัง ผัด ข้าว กิน@@@@1@5@Suri PROG fry rice eat‘Suri is frying rice to eat/Suri is frying rice and then eating it’@vipasha bansal@april 10, 2023
+122@author@@@1@svc@สุรี จะ ซื้อ หนังสือ อ่าน@@@@1@5@Suri FUT buy book read‘Suri will buy a book to read (the book)/Suri will buy a book then read (the book)’@vipasha bansal@april 10, 2023
+123@author@@@1@svc@สุรี ไม่ ผัด ข้าว กิน@@@@1@5@Suri NEG fry rice eatSuri did not fry rice to eat@vipasha bansal@april 10, 2023
+124@e@@@1@svc@สุรี หา ของขวัญ พบ@@@@1@4@Suri seek present find‘Suri sought then found the present’@vipasha bansal@april 10, 2023
+125@e@@@1@svc@สุรี ผัด ข้าว กิน ข้าว@@@@0@5@Suri fry rice eat rice‘Suri fried rice to eat rice/Suri fried rice then ate rice’@vipasha bansal@april 10, 2023
+126@e@@@1@svc@สุรี ผัด ข้าว กิน มัน@@@@0@5@Suri fry rice eat it‘Suri fried rice to eat it/Suri fried rice then ate it’@vipasha bansal@april 10, 2023
+127@e@@@1@svc@สุรี ผัด กิน ข้าว@@@@0@4@Suri fry eat rice‘Suri fried rice to eat (rice)/Suri fried rice then ate (rice)’@vipasha bansal@april 10, 2023
+128@author@@@1@svc@สุรี กำลัง	ผัด ข้าว กำลัง กิน@@@@0@6@Suri PROG fry rice PROG eat‘Suri is frying rice to eat/Suri is frying rice and then eating it’@vipasha bansal@april 10, 2023
+129@author@@@1@svc@สุรี ผัด ข้าว กำลัง กิน@@@@0@5@Suri fry rice PROG eat‘Suri is frying rice to eat/Suri is frying rice and then eating it’@vipasha bansal@april 10, 2023
+130@author@@@1@svc@สุรี กำลัง ผัด ข้าว จะ กิน@@@@0@6@Suri PROG fry rice FUT eat‘Suri is frying rice to eat/Suri is frying rice and will then eat it’@vipasha bansal@april 10, 2023
+131@author@@@1@svc@สุรี ผัด ข้าว ไม่ กิน@@@@0@5@Suri fry rice NEG eatSuri did not fry rice to eat@vipasha bansal@april 10, 2023
+132@author@@@1@svc@สุรี ไม่ ผัด ข้าว ไม่ กิน@@@@0@6@Suri NEG fry rice NEG eatSuri did not fry rice to eat@vipasha bansal@april 10, 2023
+133@author@@@1@svc@สุรี ข้าม สะพาน@@@@1@3@Suri cross bridge‘Suri crossed the bridge’@vipasha bansal@april 10, 2023
+134@author@@@1@svc@สุรี ออก บ้าน@@@@1@3@Suri exit house‘Suri left the house’@vipasha bansal@april 10, 2023
+135@author@@@1@svc@สุรี ไป บ้าน@@@@1@3@Suri go house‘Suri went home (away from the speaker)’@vipasha bansal@april 10, 2023
+136@author@@@1@svc@สุรี ข้าม@@@@0@2@Suri cross‘Suri crossed’@vipasha bansal@april 10, 2023
+137@author@@@1@svc@สุรี ออก@@@@0@2@Suri exit‘Suri left’@vipasha bansal@april 10, 2023
+138@author@@@1@svc@สุรี	เข้า@@@@0@2@Suri	enter‘Suri entered’@vipasha bansal@april 10, 2023

@@ -1,0 +1,127 @@
+;;;
+;;; a first attempt at mapping (systematically) between the grammar-internal
+;;; name space (where, for example, there may be reasons to group sets of index
+;;; properties in nested feature structures) and the external, SEM-I compliant
+;;; interface.
+;;;
+ 
+event       <> e
+ref-ind     <> x
+expl-ind    <> x
+individual  <> i
+handle      <> h
+;;;*           >> u
+;;;semarg      << u
+ 
+;;;
+;;; from here on, sets of rules that map one or more properties into one or
+;;; more properties: for each correspondence, values are compared to sub-rules
+;;; in order, until the first match: at that point, output values are inserted
+;;; into the result set of properties.  processing of rules continues against
+;;; the original properties, so that there could be multiple matches: the `PN'
+;;; to `PERS' and `NUM' decomposition, thus, could also be done in two separate
+;;; rule sets.  at the end of the day, however, only properties resulting from
+;;; successful matches will be in the output, i.e. everything not explicitly
+;;; carried over will be deleted.
+;;;
+ 
+PNG.PERS : PERS
+  1  <> 1
+  2  <> 2
+  3  <> 3
+  *  <> !
+ 
+PNG.NUM : NUM
+  sg   <> sg
+  pl   <> non-sg
+  pl   <> dual
+  pl   <> pl
+  *    <> !
+ 
+PNG.GEND : GEND
+  masc <> m
+  fem  <> f
+  neut <> n
+  masc-or-fem <> m-or-f
+  ;;;gender    <> n
+  ;;;*         >> !
+  ;;;!         << *
+ 
+;;; จะ
+E.ASPECT.SOON : TENSE
+   + <> fut
+ 
+;;; เคย
+E.ASPECT.EVER : TENSE
+   + <> nonpresent
+ 
+;;; แล้ว
+E.ASPECT.ALREADY : TENSE
+   + <> past
+ 
+;;; ได้
+E.ASPECT.GET : TENSE
+   + <> past
+ 
+;;; อยู่
+E.ASPECT.CONTIN : TENSE
+   + <> pres
+ 
+;;; กำลัง
+E.ASPECT.PROGRESS : PROG
+   + <> +
+   - <> -
+ 
+;;; มา
+E.ASPECT.PERF : PERF
+   + <> +
+   bool << -
+ 
+;;; เสร็จ
+E.ASPECT.PERFV : PERF
+   + <> +
+   bool << -
+ 
+;;; ขึ้น
+E.ASPECT.SEMIPERFV : PERF
+   + <> +
+   bool << -
+ 
+ 
+SF : SF
+  prop <> prop
+  ques <> ques
+  prop-or-ques >> prop
+  prop << prop-or-ques
+  comm <> comm
+ 
+;;; ERB 2007-05-19 I think we have to put the most specific
+;;; ones first here, or they will get clobbered by the more
+;;; general ones.
+ 
+COG-ST : COG-ST
+; Non-disunctive types
+type-id <> type-id 
+uniq-id <> uniq-id 
+familiar <> familiar 
+activated <> activated 
+in-foc <> in-foc 
+ 
+SPECI : SPECI
+  + <> +
+  - <> -
+ 
+; Disjunctions of two
+activ+fam <> activ+fam 
+uniq+fam <> uniq+fam 
+activ-or-more <> activ-or-more 
+uniq-or-less <> uniq-or-less 
+ 
+; Disjunctions of three
+uniq+fam+act <> uniq+fam+act 
+fam-or-more <> fam-or-more 
+fam-or-less <> fam-or-less 
+ 
+; Disjunctions of four
+uniq-or-more <> uniq-or-more 
+activ-or-less <> activ-or-less

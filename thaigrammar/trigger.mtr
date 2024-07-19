@@ -1,0 +1,3 @@
+;ว่า_4437_p_gr := generator_rule &
+;[ CONTEXT.RELS <! [ PRED "_think_v_rel" ] !>,
+;  FLAGS.TRIGGER "ว่า_4437_p" ].

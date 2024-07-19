@@ -1,0 +1,2867 @@
+;;; auto-generated from thai-language database version 20 revision 16655 on 4/14/2013 10:02:13 PM
+ 
+;;; Nouns
+ 
+;_person_n_1_rel
+ผู้_4796 := common-noun-lex &
+  [ STEM < "ผู้" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_person_n_1_rel" ].
+ 
+ที่ทำงาน_205334 := common-noun-lex &
+  [ STEM < "ที่ทำงาน" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_workplace_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "แห่ง" ] ].
+ 
+; servant
+คนใช้_197442 := common-noun-lex &
+  [ STEM < "คน", "ใช้" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_servant_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+ 
+;_festival_n_1_rel
+งาน_5741 := common-noun-lex &
+  [ STEM < "งาน" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_festival_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "แห่ง" ] ].
+ 
+;_year_n_1_rel
+ปี_4512 := common-noun-lex &
+  [ STEM < "ปี" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_year_n_1_rel" ].
+ 
+;_company_n_1_rel
+บริษัท_6444 := common-noun-lex &
+  [ STEM < "บริษัท" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_company_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "บริษัท" ] ].
+ 
+;_day_n_1_rel
+วัน_4425 := common-noun-lex &
+  [ STEM < "วัน" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_day_n_1_rel" ].
+ 
+ทาง_4697 := common-noun-lex &
+  [ STEM < "ทาง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_direction_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ทาง" ] ].
+ 
+;_self_n_1_rel
+ตัว_4730 := common-noun-lex &
+  [ STEM < "ตัว" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_self_n_1_rel" ].
+ 
+;_country_n_1_rel
+ประเทศ_4225 := common-noun-lex &
+  [ STEM < "ประเทศ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_country_n_1_rel" ].
+ 
+;_market_n_1_rel
+ตลาด_4354 := common-noun-lex &
+  [ STEM < "ตลาด" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_market_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "แห่ง" ] ].
+ 
+;_money_n_1_rel
+เงิน_4331 := common-noun-lex &
+  [ STEM < "เงิน" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_money_n_1_rel" ].
+ 
+;_person_n_1_rel
+คน_4133 := common-noun-lex &
+  [ STEM < "คน" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_person_n_1_rel" ].
+ 
+;_price_n_1_rel
+ราคา_5832 := common-noun-lex &
+  [ STEM < "ราคา" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_price_n_1_rel" ].
+ 
+;_side_n_1_rel
+ด้าน_5687 := common-noun-lex &
+  [ STEM < "ด้าน" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_side_n_2_rel" ].
+ 
+;_time_n_1_rel
+เวลา_4521 := common-noun-lex &
+  [ STEM < "เวลา" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_time_n_1_rel" ].
+ 
+;_story_n_1_rel
+เรื่อง_12290 := common-noun-lex &
+  [ STEM < "เรื่อง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_story_n_2_rel",
+             LOCAL.CAT.HEAD.CLASSIF "เรื่อง" ] ].
+ 
+;_heart_n_1_rel
+ใจ_4682 := common-noun-lex &
+  [ STEM < "ใจ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_heart_n_1_rel" ].
+ 
+;_back_n_1_rel
+หลัง_6510 := common-noun-lex &
+  [ STEM < "หลัง" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_back_n_2_rel" ].
+ 
+;_news_n_1_rel
+ข่าว_4906 := common-noun-lex &
+  [ STEM < "ข่าว" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_news_n_1_rel" ].
+ 
+;_style_n_1_rel
+แบบ_7689 := common-noun-lex &
+  [ STEM < "แบบ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_style_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "แบบ" ] ].
+ 
+;_month_n_1_rel
+เดือน_4431 := common-noun-lex &
+  [ STEM < "เดือน" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_month_n_1_rel" ].
+ 
+;_face_n_1_rel
+หน้า_4526 := common-noun-lex &
+  [ STEM < "หน้า" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_face_n_1_rel" ].
+ 
+;_occurrence_n_1_rel
+ครั้ง_4754 := common-noun-lex &
+  [ STEM < "ครั้ง" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_occurrence_n_1_rel" ].
+ 
+;_level_n_1_rel
+ระดับ_4968 := common-noun-lex &
+  [ STEM < "ระดับ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_level_n_1_rel" ].
+ 
+;_group_n_1_rel
+กลุ่ม_5616 := common-noun-lex &
+  [ STEM < "กลุ่ม" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_group_n_1_rel" ].
+ 
+;_amount_n_1_rel
+จำนวน_4981 := common-noun-lex &
+  [ STEM < "จำนวน" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_amount_n_1_rel" ].
+ 
+;_portion_n_1_rel
+ช่วง_8724 := common-noun-lex &
+  [ STEM < "ช่วง" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_portion_n_1_rel" ].
+ 
+;_machine_n_1_rel
+เครื่อง_4827 := common-noun-lex &
+  [ STEM < "เครื่อง" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_machine_n_1_rel" ].
+ 
+รถ_4785 := common-noun-lex &
+  [ STEM < "รถ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_car_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คัน" ] ].
+ 
+บ้าน_4211 := common-noun-lex &
+  [ STEM < "บ้าน" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_house_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "หลัง" ] ].
+ 
+ต้น_6427 := common-noun-lex &
+  [ STEM < "ต้น" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_plant_n_1_rel" ].
+ 
+;_earth_n_1_rel
+โลก_4273 := common-noun-lex &
+  [ STEM < "โลก" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_earth_n_1_rel" ].
+ 
+;_hand_n_1_rel
+มือ_4835 := common-noun-lex &
+  [ STEM < "มือ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_hand_n_1_rel" ].
+ 
+;_bank_n_1_rel
+ธนาคาร_4528 := common-noun-lex &
+  [ STEM < "ธนาคาร" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_bank_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "แห่ง" ] ].
+ 
+;_prince_n_1_rel
+เจ้า_6315 := common-noun-lex &
+  [ STEM < "เจ้า" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_prince_n_1_rel" ].
+ 
+นักเรียน_202239 := common-noun-lex &
+  [ STEM < "นักเรียน" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_student_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+ 
+;_city_n_1_rel
+เมือง_4422 := common-noun-lex &
+  [ STEM < "เมือง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_city_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ที่" ] ].
+ 
+;_monk_n_1_rel
+พระ_19014 := common-noun-lex &
+  [ STEM < "พระ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_monk_n_1_rel" ].
+ 
+;_joint_n_1_rel
+ข้อ_4834 := common-noun-lex &
+  [ STEM < "ข้อ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_joint_n_1_rel" ].
+ 
+;_problem_n_1_rel
+ปัญหา_10748 := common-noun-lex &
+  [ STEM < "ปัญหา" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_problem_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ข้อ" ] ].
+ 
+;_program_n_1_rel
+รายการ_15533 := common-noun-lex &
+  [ STEM < "รายการ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_program_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "รายการ" ] ].
+ 
+;_grade_n_1_rel
+ชั้น_5930 := common-noun-lex &
+  [ STEM < "ชั้น" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_grade_n_1_rel" ].
+ 
+;_line_n_1_rel
+สาย_4753 := common-noun-lex &
+  [ STEM < "สาย" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_line_n_2_rel",
+             LOCAL.CAT.HEAD.CLASSIF "เส้น" ] ].
+ 
+;_restroom_n_1_rel
+ห้องน้ำ_196699 := common-noun-lex &
+  [ STEM < "ห้องน้ำ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_restroom_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ห้อง" ] ].
+ 
+;_province_n_1_rel
+จังหวัด_4297 := common-noun-lex &
+  [ STEM < "จังหวัด" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_province_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "จังหวัด" ] ].
+ 
+;_song_n_1_rel
+เพลง_4122 := common-noun-lex &
+  [ STEM < "เพลง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_song_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "เพลง" ] ].
+ 
+;_word_n_1_rel
+คำ_4405 := common-noun-lex &
+  [ STEM < "คำ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_word_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คำ" ] ].
+ 
+รูป_35880 := common-noun-lex &
+  [ STEM < "รูป" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_picture_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ใบ" ] ].
+ 
+;_name_n_1_rel
+ชื่อ_4454 := common-noun-lex &
+  [ STEM < "ชื่อ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_name_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ชื่อ" ] ].
+ 
+;_boat_n_1_rel
+เรือ_4148 := common-noun-lex &
+  [ STEM < "เรือ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_boat_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ลำ" ] ].
+ 
+;_hill_n_1_rel
+เขา_4097 := common-noun-lex &
+  [ STEM < "เขา" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_hill_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ลูก" ] ].
+ 
+;_life_n_1_rel
+ชีวิต_6432 := common-noun-lex &
+  [ STEM < "ชีวิต" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_life_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ชีวิต" ] ].
+ 
+;_dimension_n_1_rel
+ขนาด_7087 := common-noun-lex &
+  [ STEM < "ขนาด" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_dimension_n_1_rel" ].
+ 
+;_food_n_1_rel
+อาหาร_4231 := common-noun-lex &
+  [ STEM < "อาหาร" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_food_n_1_rel" ].
+ 
+;_seat_n_1_rel
+ที่นั่ง_198822 := common-noun-lex &
+  [ STEM < "ที่นั่ง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_seat_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ที่" ] ].
+ 
+;_room_n_1_rel
+ห้อง_4735 := common-noun-lex &
+  [ STEM < "ห้อง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_room_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ห้อง" ] ].
+ 
+ลูก_4800 := common-noun-lex &
+  [ STEM < "ลูก" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_child_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+ 
+;_pair_n_1_rel
+คู่_4755 := common-noun-lex &
+  [ STEM < "คู่" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_pair_n_1_rel" ].
+ 
+;_collection_n_1_rel
+ชุด_6122 := common-noun-lex &
+  [ STEM < "ชุด" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_collection_n_1_rel" ].
+ 
+;_head_n_1_rel
+หัว_4743 := common-noun-lex &
+  [ STEM < "หัว" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_head_n_1_rel" ].
+ 
+;_right_n_1_rel
+สิทธิ_11723 := common-noun-lex &
+  [ STEM < "สิทธิ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_right_n_1_rel" ].
+ 
+;_girl_n_1_rel
+สาว_4788 := common-noun-lex &
+  [ STEM < "สาว" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_girl_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+ 
+;_drug_n_1_rel
+ยา_6163 := common-noun-lex &
+  [ STEM < "ยา" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_drug_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "เม็ด" ] ].
+ 
+;_gap_n_1_rel
+ช่อง_5051 := common-noun-lex &
+  [ STEM < "ช่อง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_gap_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ช่อง" ] ].
+ 
+;_sound_n_1_rel
+เสียง_6070 := common-noun-lex &
+  [ STEM < "เสียง" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_sound_n_1_rel" ].
+ 
+;_folks_n_1_rel
+ชาว_4841 := common-noun-lex &
+  [ STEM < "ชาว" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_folk_n_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+ 
+;_thing_n_1_rel
+สิ่ง_11743 := common-noun-lex &
+  [ STEM < "สิ่ง" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_thing_n_1_rel" ].
+ 
+;_numeral_n_1_rel
+เลข_6084 := common-noun-lex &
+  [ STEM < "เลข" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_numeral_n_1_rel" ].
+ 
+;_eye_n_1_rel
+ตา_4194 := common-noun-lex &
+  [ STEM < "ตา" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_eye_n_1_rel" ].
+ 
+;_road_n_1_rel
+ถนน_4527 := common-noun-lex &
+  [ STEM < "ถนน" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_road_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "สาย" ] ].
+ 
+;_mother_n_1_rel
+แม่_6240 := common-noun-lex &
+  [ STEM < "แม่" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_mother_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+ 
+;_night_n_1_rel
+คืน_4489 := common-noun-lex &
+  [ STEM < "คืน" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_night_n_1_rel" ].
+ 
+;_store_n_1_rel
+ร้าน_4737 := common-noun-lex &
+  [ STEM < "ร้าน" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_store_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ร้าน" ] ].
+ 
+เด็ก_4140 := common-noun-lex &
+  [ STEM < "เด็ก" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_child_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+ 
+;_gold_n_1_rel
+ทอง_4751 := common-noun-lex &
+  [ STEM < "ทอง" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_gold_n_1_rel" ].
+ 
+ผู้โดยสาร_198440 := common-noun-lex &
+  [ STEM < "ผู้โดยสาร" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_passenger_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+ 
+;_category_n_1_rel
+ประเภท_5767 := common-noun-lex &
+  [ STEM < "ประเภท" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_category_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "เล่ม" ] ].
+ 
+หนังสือ_4404 := common-noun-lex &
+  [ STEM < "หนังสือ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_book_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "เล่ม" ] ].
+ 
+;_building_n_1_rel
+อาคาร_5604 := common-noun-lex &
+  [ STEM < "อาคาร" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_building_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "หลัง" ] ].
+ 
+;_color_n_1_rel
+สี_4769 := common-noun-lex &
+  [ STEM < "สี" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_color_n_1_rel" ].
+ 
+;_amount_n_1_rel
+ปริมาณ_4982 := common-noun-lex &
+  [ STEM < "ปริมาณ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_amount_n_1_rel" ].
+ 
+;_peril_n_1_rel
+ภัย_4825 := common-noun-lex &
+  [ STEM < "ภัย" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_peril_n_1_rel" ].
+ 
+;_paddy_n_1_rel
+นา_8019 := common-noun-lex &
+  [ STEM < "นา" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_field_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "แห่ง" ] ].
+ 
+;_field_n_1_rel
+แปลง_9352 := common-noun-lex &
+  [ STEM < "แปลง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_field_n_2_rel",
+             LOCAL.CAT.HEAD.CLASSIF "แปลง" ] ].
+ 
+สนาม_4549 := common-noun-lex &
+  [ STEM < "สนาม" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_park_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "แห่ง" ] ].
+ 
+หนัง_4170 := common-noun-lex &
+  [ STEM < "หนัง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_movie_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "เรื่อง" ] ].
+ 
+;_adolescent_n_1_rel
+หนุ่ม_4810 := common-noun-lex &
+  [ STEM < "หนุ่ม" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_adolescent_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+ 
+;_weather_n_1_rel
+อากาศ_4820 := common-noun-lex &
+  [ STEM < "อากาศ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_weather_n_1_rel" ].
+ 
+;_computer_n_1_rel
+คอมพิวเตอร์_4403 := common-noun-lex &
+  [ STEM < "คอมพิวเตอร์" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_computer_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "เครื่อง" ] ].
+ 
+;_disease_n_1_rel
+โรค_4419 := common-noun-lex &
+  [ STEM < "โรค" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_disease_n_1_rel" ].
+ 
+;_game_n_1_rel
+เกม_11277 := common-noun-lex &
+  [ STEM < "เกม" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_game_n_1_rel" ].
+ 
+;_line_n_1_rel
+เส้น_4741 := common-noun-lex &
+  [ STEM < "เส้น" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_line_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "เส้น" ] ].
+ 
+;_earth_n_1_rel
+ดิน_6222 := common-noun-lex &
+  [ STEM < "ดิน" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_earth_n_1_rel" ].
+ 
+;_aunt_n_1_rel
+อา_5194 := common-noun-lex &
+  [ STEM < "อา" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_aunt_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+ 
+ไฟ_21134 := common-noun-lex & [ STEM < "ไฟ" >, SYNSEM.LKEYS.KEYREL.PRED "_fire_n_1_rel" ].
+ 
+อาหารทะเล_197446 := common-noun-lex & [ STEM < "อาหารทะเล" >, SYNSEM.LKEYS.KEYREL.PRED "_seafood_n_1_rel" ].
+ 
+;_garden_n_1_rel
+สวน_7434 := common-noun-lex &
+  [ STEM < "สวน" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_garden_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ที่" ] ].
+ 
+วัด_4932 := common-noun-lex &
+  [ STEM < "วัด" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_temple_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "แห่ง" ] ].
+ 
+อะไร_10605 := common-noun-lex & [ STEM < "อะไร" >, SYNSEM.LKEYS.KEYREL.PRED "_anything_n_rel" ].
+ 
+;_sky_n_1_rel
+ฟ้า_4334 := common-noun-lex &
+  [ STEM < "ฟ้า" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_sky_n_1_rel" ].
+ 
+ข้าว_4099 := common-noun-lex &
+  [ STEM < "ข้าว" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_rice_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "เม็ด" ] ].
+ 
+;_neck_n_1_rel
+คอ_6102 := common-noun-lex &
+  [ STEM < "คอ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_neck_n_1_rel" ].
+ 
+;_name_n_1_rel
+นาม_6375 := common-noun-lex &
+  [ STEM < "นาม" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_name_n_1_rel" ].
+ 
+เพื่อน_4222 := common-noun-lex &
+  [ STEM < "เพื่อน" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_friend_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+ 
+พ่อ_4124 := common-noun-lex &
+  [ STEM < "พ่อ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_father_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+ 
+;_week_n_1_rel
+อาทิตย์_4426 := common-noun-lex &
+  [ STEM < "อาทิตย์" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_week_n_1_rel" ].
+ 
+;_music_n_1_rel
+ดนตรี_4249 := common-noun-lex &
+  [ STEM < "ดนตรี" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_music_n_1_rel" ].
+ 
+เจ็บ_33225 := common-noun-lex & [ STEM < "เจ็บ" >, SYNSEM.LKEYS.KEYREL.PRED "_harm_n_1_rel" ].
+ 
+ครู_6592 := common-noun-lex &
+  [ STEM < "ครู" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_teacher_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+ 
+;_woman_n_1_rel
+หญิง_33738 := common-noun-lex &
+  [ STEM < "หญิง" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_woman_n_2_rel" ].
+ 
+ภาษา_4160 := common-noun-lex &
+  [ STEM < "ภาษา" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_language_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ภาษา" ] ].
+ 
+ประวัติศาสตร์_211282 := common-noun-lex & [ STEM < "ประวัติศาสตร์" >, SYNSEM.LKEYS.KEYREL.PRED "_history_n_1_rel" ].
+ 
+;_mouth_n_1_rel
+ปาก_7432 := common-noun-lex &
+  [ STEM < "ปาก" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_mouth_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ปาก" ] ].
+ 
+;_skin_n_1_rel
+ผิว_4295 := common-noun-lex &
+  [ STEM < "ผิว" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_skin_n_1_rel" ].
+ 
+;_animal_n_1_rel
+สัตว์_4367 := common-noun-lex &
+  [ STEM < "สัตว์" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_animal_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+ผ้า_5965 := common-noun-lex &
+  [ STEM < "ผ้า" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_cloth_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ผืน" ] ].
+ 
+;_sea_n_1_rel
+ทะเล_4397 := common-noun-lex &
+  [ STEM < "ทะเล" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_sea_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "แห่ง" ] ].
+ 
+;_breast_n_1_rel
+อก_5530 := common-noun-lex &
+  [ STEM < "อก" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_breast_n_1_rel" ].
+ 
+;_season_n_1_rel
+ฤดู_7448 := common-noun-lex &
+  [ STEM < "ฤดู" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_season_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "หน้า" ] ].
+ 
+;_angle_n_1_rel
+มุม_5003 := common-noun-lex &
+  [ STEM < "มุม" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_angle_n_1_rel" ].
+ 
+;_wood_n_1_rel
+ไม้_4802 := common-noun-lex &
+  [ STEM < "ไม้" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_wood_n_1_rel" ].
+ 
+;_minute_n_1_rel
+นาที_4492 := common-noun-lex &
+  [ STEM < "นาที" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_minute_n_1_rel" ].
+ 
+;_jungle_n_1_rel
+ป่า_9432 := common-noun-lex &
+  [ STEM < "ป่า" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_jungle_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ป่า" ] ].
+ 
+;_island_n_1_rel
+เกาะ_4453 := common-noun-lex &
+  [ STEM < "เกาะ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_island_n_1_rel" ].
+ 
+;_meat_n_1_rel
+เนื้อ_4241 := common-noun-lex &
+  [ STEM < "เนื้อ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_meat_n_1_rel" ].
+ 
+ฝาห้อง_219463 := common-noun-lex &
+  [ STEM < "ฝาห้อง" >, 
+    SYNSEM.LKEYS.KEYREL.PRED "_wall_n_1_rel" ].
+ 
+;_tooth_n_1_rel
+ฟัน_4146 := common-noun-lex &
+  [ STEM < "ฟัน" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_tooth_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ซี่" ] ].
+
+;_shore_n_1_rel
+ฝั่ง_5972 := common-noun-lex &
+  [ STEM < "ฝั่ง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_shore_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ฝั่ง" ] ].
+ 
+;_rain_n_1_rel
+ฝน_4128 := common-noun-lex &
+  [ STEM < "ฝน" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_rain_n_1_rel" ].
+ 
+;_shirt_n_1_rel
+เสื้อ_4409 := common-noun-lex &
+  [ STEM < "เสื้อ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_shirt_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_trunk_n_1_rel
+ลำ_4756 := common-noun-lex &
+  [ STEM < "ลำ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_trunk_n_1_rel" ].
+ 
+;_canal_n_1_rel
+คลอง_5707 := common-noun-lex &
+  [ STEM < "คลอง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_canal_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "สาย" ] ].
+ 
+;_trace_n_1_rel
+รอย_7724 := common-noun-lex &
+  [ STEM < "รอย" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_trace_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "รอย" ] ].
+ 
+;_occasion_n_1_rel
+คราว_14492 := common-noun-lex &
+  [ STEM < "คราว" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_occasion_n_1_rel" ].
+ 
+;_dwelling_n_1_rel
+เรือน_6190 := common-noun-lex &
+  [ STEM < "เรือน" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_dwelling_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "หลัง" ] ].
+ 
+;_gun_n_1_rel
+ปืน_10267 := common-noun-lex &
+  [ STEM < "ปืน" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_gun_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "กระบอก" ] ].
+ 
+;_coffee_n_1_rel
+กาแฟ_4287 := common-noun-lex &
+  [ STEM < "กาแฟ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_coffee_n_1_rel" ].
+ 
+;_cabinet_n_1_rel
+ตู้_5659 := common-noun-lex &
+  [ STEM < "ตู้" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_cabinet_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_blood_n_1_rel
+เลือด_5429 := common-noun-lex &
+  [ STEM < "เลือด" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_blood_n_1_rel" ].
+ 
+ 
+;_door_n_1_rel
+ประตู_4368 := common-noun-lex &
+  [ STEM < "ประตู" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_door_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "บาน" ] ].
+ 
+;_seed_n_1_rel
+เม็ด_15023 := common-noun-lex &
+  [ STEM < "เม็ด" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_seed_n_1_rel" ].
+ 
+;_kitchen_n_1_rel
+ครัว_6229 := common-noun-lex &
+  [ STEM < "ครัว" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_kitchen_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ห้อง" ] ].
+ 
+;_wind_n_1_rel
+ลม_4651 := common-noun-lex &
+  [ STEM < "ลม" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_wind_n_1_rel" ].
+ 
+;_flag_n_1_rel
+ธง_4116 := common-noun-lex &
+  [ STEM < "ธง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_flag_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ผืน" ] ].
+ 
+;_engineer_n_1_rel
+ช่าง_6030 := common-noun-lex &
+  [ STEM < "ช่าง" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_engineer_n_1_rel" ].
+ 
+;_rock_n_1_rel
+หิน_9577 := common-noun-lex &
+  [ STEM < "หิน" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_rock_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ก้อน" ] ].
+ 
+;_milk_n_1_rel
+นม_4244 := common-noun-lex &
+  [ STEM < "นม" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_milk_n_1_rel" ].
+ 
+;_poison_n_1_rel
+พิษ_6251 := common-noun-lex &
+  [ STEM < "พิษ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_poison_n_1_rel" ].
+ 
+;_thief_n_1_rel
+โจร_5267 := common-noun-lex &
+  [ STEM < "โจร" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_thief_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+ 
+;_edge_n_1_rel
+ริม_7307 := common-noun-lex &
+  [ STEM < "ริม" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_edge_n_1_rel" ].
+ 
+;_foot_n_1_rel
+เท้า_6255 := common-noun-lex &
+  [ STEM < "เท้า" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_foot_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ข้าง" ] ].
+ 
+;_doctor_n_1_rel
+หมอ_4369 := common-noun-lex &
+  [ STEM < "หมอ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_doctor_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+ 
+;_paper_n_1_rel
+กระดาษ_4318 := common-noun-lex &
+  [ STEM < "กระดาษ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_paper_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "แผ่น" ] ].
+ 
+;_pavilion_n_1_rel
+ศาลา_4892 := common-noun-lex &
+  [ STEM < "ศาลา" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_pavilion_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "หลัง" ] ].
+ 
+;_jail_n_1_rel
+คุก_4219 := common-noun-lex &
+  [ STEM < "คุก" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_jail_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "แห่ง" ] ].
+ 
+;_ambassador_n_1_rel
+ทูต_4977 := common-noun-lex &
+  [ STEM < "ทูต" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_ambassador_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+ 
+;_flower_n_1_rel
+ดอก_6450 := common-noun-lex &
+  [ STEM < "ดอก" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_flower_n_1_rel" ].
+ 
+;_bar_n_1_rel
+บาร์_4557 := common-noun-lex &
+  [ STEM < "บาร์" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_bar_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "แห่ง" ] ].
+;_fruit_n_1_rel
+ผลไม้_200286 := common-noun-lex &
+  [ STEM < "ผลไม้" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_fruit_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ผล" ] ].
+ 
+;_trash_n_1_rel
+ขยะ_4221 := common-noun-lex &
+  [ STEM < "ขยะ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_trash_n_1_rel" ].
+ 
+;_beer_n_1_rel
+เบียร์_4251 := common-noun-lex &
+  [ STEM < "เบียร์" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_beer_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "แก้ว" ] ].
+ 
+;_sand_n_1_rel
+ทราย_8711 := common-noun-lex &
+  [ STEM < "ทราย" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_sand_n_1_rel" ].
+ 
+โต๊ะ_4316 := common-noun-lex &
+  [ STEM < "โต๊ะ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_table_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_boy_n_1_rel
+เด็กชาย_196931 := common-noun-lex &
+  [ STEM < "เด็กชาย" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_boy_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+ 
+;_son_n_1_rel
+ลูกชาย_196915 := common-noun-lex &
+  [ STEM < "ลู", "กชาย" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_son_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+ 
+ผู้ชาย_4228 := common-noun-lex &
+  [ STEM < "ผู้", "ชาย" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_man_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+ 
+;man_n_rel
+ผู้ชาย := common-noun-lex &
+   [STEM < "ผู้ชาย" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_man_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คน" ] ].
+
+;_wheel_n_1_rel
+ล้อ_4118 := common-noun-lex &
+  [ STEM < "ล้อ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_wheel_n_1_rel" ].
+ 
+;_pouch_n_1_rel
+ถุง_4869 := common-noun-lex &
+  [ STEM < "ถุง" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_pouch_n_1_rel" ].
+ 
+;_brain_n_1_rel
+สมอง_5511 := common-noun-lex &
+  [ STEM < "สมอง" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_brain_n_1_rel" ].
+ 
+กระเป๋า_6126 := common-noun-lex &
+  [ STEM < "กระเป๋า" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_bag_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ใบ" ] ].
+ 
+;_bucket_n_1_rel
+ถัง_4801 := common-noun-lex &
+  [ STEM < "ถัง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_bucket_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ใบ" ] ].
+ 
+;_flour_n_1_rel
+แป้ง_7552 := common-noun-lex &
+  [ STEM < "แป้ง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_flour_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ขวด" ] ].
+ 
+;_chair_n_1_rel
+เก้าอี้_4317 := common-noun-lex &
+  [ STEM < "เก้าอี้" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_chair_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_college_n_1_rel
+วิทยาลัย_4525 := common-noun-lex &
+  [ STEM < "วิทยาลัย" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_college_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "แห่ง" ] ].
+ 
+;_beach_n_1_rel
+หาด_4547 := common-noun-lex &
+  [ STEM < "หาด" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_beach_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ที่" ] ].
+ 
+;_timepiece_n_1_rel
+นาฬิกา_4398 := common-noun-lex &
+  [ STEM < "นาฬิกา" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_timepiece_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "เรือน" ] ].
+ 
+;_flower_n_1_rel
+ดอกไม้_197385 := common-noun-lex &
+  [ STEM < "ดอกไม้" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_flower_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ดอก" ] ].
+ 
+;_bill_n_1_rel
+บิล_4702 := common-noun-lex &
+  [ STEM < "บิล" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_bill_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ใบ" ] ].
+ 
+;_row_n_1_rel
+แถว_4767 := common-noun-lex &
+  [ STEM < "แถว" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_row_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "แถว" ] ].
+ 
+;_bottle_n_1_rel
+ขวด_4131 := common-noun-lex &
+  [ STEM < "ขวด" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_bottle_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ใบ" ] ].
+ 
+;_gulf_n_1_rel
+อ่าว_4548 := common-noun-lex &
+  [ STEM < "อ่าว" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_gulf_n_1_rel" ].
+ 
+;_soup_n_1_rel
+ซุป_4237 := common-noun-lex &
+  [ STEM < "ซุป" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_soup_n_1_rel" ].
+ 
+;_egg_n_1_rel
+ไข่_4130 := common-noun-lex &
+  [ STEM < "ไข่" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_egg_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ใบ" ] ].
+ 
+;_bus_n_1_rel
+รถเมล์_200426 := common-noun-lex &
+  [ STEM < "รถเมล์" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_bus_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คัน" ] ].
+ 
+;_liquor_n_1_rel
+เหล้า_9342 := common-noun-lex &
+  [ STEM < "เหล้า" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_liquor_n_1_rel" ].
+ 
+;_alphabet_n_1_rel
+อักษร_4344 := common-noun-lex &
+  [ STEM < "อักษร" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_alphabet_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_grass_n_1_rel
+หญ้า_9324 := common-noun-lex &
+  [ STEM < "หญ้า" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_grass_n_1_rel" ].
+ 
+;_rose_n_1_rel
+ดอกกุหลาบ_13782 := common-noun-lex &
+  [ STEM < "ดอกกุหลาบ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_rose_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ดอก" ] ].
+ 
+;_oven_n_1_rel
+เตา_7495 := common-noun-lex &
+  [ STEM < "เตา" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_oven_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "เต้า" ] ].
+ 
+;_arm_n_1_rel
+แขน_5099 := common-noun-lex &
+  [ STEM < "แขน" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_arm_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ข้าง" ] ].
+ 
+;_lid_n_1_rel
+ฝา_4879 := common-noun-lex &
+  [ STEM < "ฝา" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_lid_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ฝา" ] ].
+ 
+;_taxi_n_1_rel
+แท็กซี่_4208 := common-noun-lex &
+  [ STEM < "แท็กซี่" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_taxi_n_1_rel" ].
+ 
+;_bean_n_1_rel
+ถั่ว_6562 := common-noun-lex &
+  [ STEM < "ถั่ว" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_bean_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "เม็ด" ] ].
+ 
+;_ring_n_1_rel
+แหวน_4150 := common-noun-lex &
+  [ STEM < "แหวน" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_ring_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "วง" ] ].
+ 
+มีด_4216 := common-noun-lex &
+  [ STEM < "มีด" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_knife_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ใบ" ] ].
+ 
+;_gas_n_1_rel
+แก๊ส_11282 := common-noun-lex &
+  [ STEM < "แก๊ส" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_gas_n_1_rel" ].
+ 
+ 
+กระจก_8605 := common-noun-lex &
+  [ STEM < "กระจก" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_glass_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "แผ่น" ] ].
+ 
+;_mountain_n_1_rel
+ภูเขา_25651 := common-noun-lex &
+  [ STEM < "ภูเขา" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_mountain_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ลูก" ] ].
+ 
+;_cloud_n_1_rel
+เมฆ_4359 := common-noun-lex &
+  [ STEM < "เมฆ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_cloud_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ก้อน" ] ].
+ 
+;_shadow_n_1_rel
+เงา_6587 := common-noun-lex &
+  [ STEM < "เงา" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_shadow_n_1_rel" ].
+ 
+;_doll_n_1_rel
+ตุ๊กตา_7179 := common-noun-lex &
+  [ STEM < "ตุ๊กตา" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_doll_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_view_n_1_rel
+วิว_4263 := common-noun-lex &
+  [ STEM < "วิว" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_view_n_1_rel" ].
+     
+;_stairs_n_1_rel
+บันได_8660 := common-noun-lex &
+  [ STEM < "บันได" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_stairs_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คัน" ] ].
+ 
+;_pants_n_1_rel
+กางเกง_4410 := common-noun-lex &
+  [ STEM < "กางเกง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_pants_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_acid_n_1_rel
+กรด_4560 := common-noun-lex &
+  [ STEM < "กรด" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_acid_n_1_rel" ].
+ 
+;_pen_n_1_rel
+ปากกา_206485 := common-noun-lex &
+  [ STEM < "ปากกา" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_pen_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ด้าม" ] ].
+ 
+;_spoon_n_1_rel
+ช้อน_9359 := common-noun-lex &
+  [ STEM < "ช้อน" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_spoon_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "คัน" ] ].
+ 
+;_piano_n_1_rel
+เปียโน_4324 := common-noun-lex &
+  [ STEM < "เปียโน" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_piano_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "หลัง" ] ].
+ 
+;_sports_n_1_rel
+กรีฑา_12110 := common-noun-lex &
+  [ STEM < "กรีฑา" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_sports_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ชนิด" ] ].
+ 
+;_grape_n_1_rel
+องุ่น_8191 := common-noun-lex &
+  [ STEM < "องุ่น" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_grape_n_1_rel" ].
+ 
+;_ginger_n_1_rel
+ขิง_13788 := common-noun-lex &
+  [ STEM < "ขิง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_ginger_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "หัว" ] ].
+ 
+;_hotel_n_1_rel
+โฮเต็ล_4280 := common-noun-lex &
+  [ STEM < "โฮเต็ล" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_hotel_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "โรง" ] ].
+ 
+;_snow_n_1_rel
+หิมะ_7867 := common-noun-lex &
+  [ STEM < "หิมะ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_snow_n_1_rel" ].
+ 
+;_pimple_n_1_rel
+สิว_4562 := common-noun-lex &
+  [ STEM < "สิว" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_pimple_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "เม็ด" ] ].
+ 
+;_fan_n_1_rel
+พัดลม_198110 := common-noun-lex &
+  [ STEM < "พัดลม" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_fan_n_1_rel" ].
+ 
+;_lime_n_1_rel
+มะนาว_4391 := common-noun-lex &
+  [ STEM < "มะนาว" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_lime_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ผล" ] ].
+ 
+ทุเรียน_6548 := common-noun-lex &
+  [ STEM < "ทุเรียน" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_durian_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ลูก" ] ].
+ 
+สนิม_15012 := common-noun-lex &
+  [ STEM < "สนิม" >, 
+    SYNSEM.LKEYS.KEYREL.PRED "_rust_n_1_rel" ].
+ 
+กลอน_20918 := common-noun-lex &
+  [ STEM < "กลอน" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_poem_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "บท" ] ].
+ 
+;_apple_n_1_rel
+แอปเปิ้ล_4402 := common-noun-lex &
+  [ STEM < "แอปเปิ้ล" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_apple_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ลูก" ] ].
+ 
+;_meter_n_1_rel
+มิเตอร์_18050 := common-noun-lex &
+  [ STEM < "มิเตอร์" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_meter_n_1_rel" ].
+ 
+;_sentence_n_1_rel
+ประโยค_16272 := common-noun-lex &
+  [ STEM < "ประโยค" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_sentence_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ประโยค" ] ].
+ 
+ซูชิ_30464 := common-noun-lex &
+  [ STEM < "ซูชิ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_sushi_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "อัน" ] ].
+ 
+;_garlic_n_1_rel
+กระเทียม_4220 := common-noun-lex &
+  [ STEM < "กระเทียม" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_garlic_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "กลีบ" ] ].
+ 
+;_elevator_n_1_rel
+ลิฟต์_4389 := common-noun-lex &
+  [ STEM < "ลิฟต์" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_elevator_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ลิฟต์" ] ].
+ 
+;_violin_n_1_rel
+ไวโอลิน_4262 := common-noun-lex &
+  [ STEM < "ไวโอลิน" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_violin_n_1_rel" ].
+ 
+;_pencil_n_1_rel
+ดินสอ_4319 := common-noun-lex &
+  [ STEM < "ดินสอ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_pencil_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "แท่ง" ] ].
+ 
+;_basket_n_1_rel
+ตะกร้า_5293 := common-noun-lex &
+  [ STEM < "ตะกร้า" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_basket_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ใบ" ] ].
+ 
+;_scissors_n_1_rel
+กรรไกร_4110 := common-noun-lex &
+  [ STEM < "กรรไกร" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_scissors_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "เล่ม" ] ].
+ 
+;_basil_n_1_rel
+กะเพรา_4544 := common-noun-lex &
+  [ STEM < "กะเพรา" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_basil_n_1_rel" ].
+ 
+;_urine_n_1_rel
+เยี่ยว_13114 := common-noun-lex &
+  [ STEM < "เยี่ยว" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_urine_n_1_rel" ].
+
+โรงหนัง := common-noun-lex & [ STEM < "โรงหนัง" >, SYNSEM.LKEYS.KEYREL.PRED "_theatre_n_1_rel" ].
+
+;;; animals
+ 
+;_rabbit_n_1_rel
+กระต่าย_4214 := common-noun-lex &
+  [ STEM < "กระต่าย" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_rabbit_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_crocodile_n_1_rel
+จระเข้_4956 := common-noun-lex &
+  [ STEM < "จระเข้" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_crocodile_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_bird_n_1_rel
+นก_4325 := common-noun-lex &
+  [ STEM < "นก" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_bird_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;turkey_n_rel
+ไก่งวง := common-noun-lex &
+   [ STEM < "ไก่งวง" >,
+     SYNSEM [ LKEYS.KEYREL.PRED "_turkey_n_1_rel",
+	      LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+
+;_turkey_n_1_rel
+ไก่งวง_202276 := common-noun-lex &
+  [ STEM < "ไก่", "งวง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_turkey_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;water buffalo _water_buffalo_n_1_rel
+ควาย_4132 := common-noun-lex &
+  [ STEM < "ควาย" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_water buffalo_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+              
+ตัวบุ้ง_33229 := common-noun-lex &
+  [ STEM < "ตัวบุ้ง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_caterpillar_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+              
+เสือจากัวร์_219869 := common-noun-lex &
+  [ STEM < "เสือจากัวร์" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_jaguar_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_goat_n_1_rel
+แพะ_6601 := common-noun-lex &
+  [ STEM < "แพะ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_goat_n_1_rel" ].
+ 
+;_frog_n_1_rel
+กบ_4361 := common-noun-lex &
+  [ STEM < "กบ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_frog_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_lion_n_1_rel
+สิงโต_4535 := common-noun-lex &
+  [ STEM < "สิงโต" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_lion_n_1_rel" ].
+ 
+;_monkey_n_1_rel
+ลิง_4149 := common-noun-lex &
+  [ STEM < "ลิง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_monkey_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_bee_n_1_rel
+ผึ้ง_4145 := common-noun-lex &
+  [ STEM < "ผึ้ง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_bee_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_turtle_n_1_rel
+เต่า_4141 := common-noun-lex &
+  [ STEM < "เต่า" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_turtle_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_cat_n_1_rel
+แมว_4217 := common-noun-lex &
+  [ STEM < "แมว" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_cat_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_snake_n_1_rel
+งู_4127 := common-noun-lex &
+  [ STEM < "งู" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_snake_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_bear_n_1_rel
+หมี_4546 := common-noun-lex &
+  [ STEM < "หมี" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_bear_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_dog_n_1_rel
+หมา_4218 := common-noun-lex &
+  [ STEM < "หมา" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_dog_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_ant_n_1_rel
+มด_5020 := common-noun-lex &
+  [ STEM < "มด" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_ant_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_cow_n_1_rel
+วัว_4215 := common-noun-lex &
+  [ STEM < "วัว" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_cow_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_dog_n_1_rel
+สุนัข_9985 := common-noun-lex &
+  [ STEM < "สุนัข" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_dog_n_1_rel" ].
+ 
+;_horse_n_1_rel
+ม้า_4147 := common-noun-lex &
+  [ STEM < "ม้า" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_horse_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_tiger_n_1_rel
+เสือ_4151 := common-noun-lex &
+  [ STEM < "เสือ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_tiger_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_mouse_n_1_rel
+หนู_4143 := common-noun-lex &
+  [ STEM < "หนู" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_mouse_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_crab_n_1_rel
+ปู_4226 := common-noun-lex &
+  [ STEM < "ปู" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_crab_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_shrimp_n_1_rel
+กุ้ง_8315 := common-noun-lex &
+  [ STEM < "กุ้ง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_shrimp_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_sheep_n_1_rel
+แกะ_6609 := common-noun-lex &
+  [ STEM < "แกะ" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_sheep_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_elephant_n_1_rel
+ช้าง_4136 := common-noun-lex &
+  [ STEM < "ช้าง" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_elephant_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_fish_n_1_rel
+ปลา_4115 := common-noun-lex &
+  [ STEM < "ปลา" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_fish_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+ 
+;_chicken_n_1_rel
+ไก่_4125 := common-noun-lex &
+  [ STEM < "ไก่" >,
+    SYNSEM [ LKEYS.KEYREL.PRED "_chicken_n_1_rel",
+             LOCAL.CAT.HEAD.CLASSIF "ตัว" ] ].
+
+;bridge_n_rel
+สะพาน := common-noun-lex &
+  [ STEM < "สะพาน" >,
+  SYNSEM.LKEYS.KEYREL.PRED "bridge_n_rel"].
+
+;work_n_rel
+งาน := common-noun-lex &
+   [ STEM < "งาน" >,
+   SYNSEM.LKEYS.KEYREL.PRED "work_n_rel" ].
+ 
+;box_n_rel
+กล่อง := common-noun-lex &
+    [ STEM < "กล่อง" >,
+    SYNSEM.LKEYS.KEYREL.PRED "box_n_rel" ].
+
+;roof_n_rel
+หลังคา := common-noun-lex &
+     [ STEM < "หลังคา" >,
+     SYNSEM.LKEYS.KEYREL.PRED "roof_n_rel" ].
+
+;candle_n_rel
+เทียน := common-noun-lex &
+     [ STEM < "เทียน" >,
+     SYNSEM.LKEYS.KEYREL.PRED "candle_n_rel" ].
+
+;ghost_n_rel
+ผี := common-noun-lex &
+   [ STEM < "ผี" >,
+   SYNSEM.LKEYS.KEYREL.PRED "ghost_n_rel" ].
+
+;homework_n_rel
+การบ้าน := common-noun-lex &
+      [ STEM < "การบ้าน" >,
+      SYNSEM.LKEYS.KEYREL.PRED "homework_n_rel" ].
+
+;thief_n_rel
+ขโมย := common-noun-lex &
+     [ STEM < "ขโมย" >,
+     SYNSEM.LKEYS.KEYREL.PRED "thief_n_rel" ].
+
+;police_n_rel
+ตำรวจ := common-noun-lex &
+     [ STEM < "ตำรวจ" >,
+     SYNSEM.LKEYS.KEYREL.PRED "police_n_rel" ].
+
+
+;race_n_rel
+การแข่งขัน := common-noun-lex &
+       [ STEM < "การแข่งขัน" >,
+       SYNSEM.LKEYS.KEYREL.PRED "race_n_rel" ].
+
+;gift_n_rel
+ของขวัญ := common-noun-lex &
+      [ STEM < "ของขวัญ" >,
+      SYNSEM.LKEYS.KEYREL.PRED "gift_n_rel" ].
+
+;clothes_n_rel
+เสื้อผ้า := common-noun-lex &
+   [ STEM < "เสื้อผ้า" >, SYNSEM.LKEYS.KEYREL.PRED "clothes_n_rel" ].
+
+;school_n_rel
+โรงเรียน := common-noun-lex &
+   [ STEM < "โรงเรียน" >, SYNSEM.LKEYS.KEYREL.PRED "school_n_rel" ].
+
+;tennis_n_rel
+เทนนิส := common-noun-lex &
+   [ STEM < "เทนนิส" >, SYNSEM.LKEYS.KEYREL.PRED "tennis_n_rel" ].
+
+;younger.sibling_n_rel
+น้อง := common-noun-lex &
+   [ STEM < "น้อง" >, SYNSEM.LKEYS.KEYREL.PRED "younger.sibling_n_rel" ].
+
+;glasses_n_rel
+แว่นตา := common-noun-lex &
+   [ STEM < "แว่นตา" >, SYNSEM.LKEYS.KEYREL.PRED "glasses_n_rel" ].
+
+;stream_n_rel
+ลำนำ := common-noun-lex &
+   [ STEM < "ลำนำ" >, SYNSEM.LKEYS.KEYREL.PRED "stream_n_rel" ].
+
+;west_n_rel
+ทิศตะวันตก := common-noun-lex &
+   [ STEM < "ทิศตะวันตก" >, SYNSEM.LKEYS.KEYREL.PRED "west_n_rel" ].
+
+;village_n_rel
+หมู่บ้าน := common-noun-lex &
+   [ STEM < "หมู่บ้าน" >, SYNSEM.LKEYS.KEYREL.PRED "village_n_rel" ].
+
+;land_n_rel
+แผ่นดิน := common-noun-lex &
+   [ STEM < "แผ่นดิน" >, SYNSEM.LKEYS.KEYREL.PRED "land_n_rel" ].
+
+;boy_n_rel
+ชาย := common-noun-lex &
+   [ STEM < "ชาย" >, SYNSEM.LKEYS.KEYREL.PRED "boy_n_rel" ].
+
+;path_n_rel
+พื้นทาง := common-noun-lex &
+   [ STEM < "พื้นทาง" >, SYNSEM.LKEYS.KEYREL.PRED "path_n_rel" ].
+
+;water_n_rel
+นำ := common-noun-lex &
+   [ STEM < "นำ" >, SYNSEM.LKEYS.KEYREL.PRED "water_n_rel" ].
+
+;girl_n_rel
+เด็กหญิง := common-noun-lex &
+   [ STEM < "เด็กหญิง" >, SYNSEM.LKEYS.KEYREL.PRED "girl_n_rel" ].
+
+;canal_n_rel
+คลอง := common-noun-lex &
+   [ STEM < "คลอง" >, SYNSEM.LKEYS.KEYREL.PRED "canal_n_rel" ].
+
+;branch_n_rel
+ติดมือ := common-noun-lex &
+   [ STEM < "ติดมือ" >, SYNSEM.LKEYS.KEYREL.PRED "branch_n_rel" ].
+
+;beach_n_rel
+หาด := common-noun-lex &
+   [ STEM < "หาด" >, SYNSEM.LKEYS.KEYREL.PRED "beach_n_rel" ].
+
+;fang_n_rel
+เขี้ยว := common-noun-lex &
+   [ STEM < "เขี้ยว" >, SYNSEM.LKEYS.KEYREL.PRED "fang_n_rel" ].
+
+;nest_n_rel
+รัง := common-noun-lex &
+   [ STEM < "รัง" >, SYNSEM.LKEYS.KEYREL.PRED "nest_n_rel" ].
+   
+;bicycle_n_rel
+จักรยาน := common-noun-lex &
+   [ STEM < "จักรยาน" >, SYNSEM.LKEYS.KEYREL.PRED "bicycle_n_rel" ].
+
+;field_n_rel
+สนาม := common-noun-lex &
+   [ STEM < "สนาม" >, SYNSEM.LKEYS.KEYREL.PRED "field_n_rel" ].
+
+;river.edge_n_rel
+ถึงริมแม่นำ := common-noun-lex &
+   [ STEM < "ถึงริมแม่นำ" >, SYNSEM.LKEYS.KEYREL.PRED "river.edge_n_rel" ].
+
+;heron_n_rel
+นกกระยาง := common-noun-lex &
+   [ STEM < "นกกระยาง" >, SYNSEM.LKEYS.KEYREL.PRED "heron_n_rel" ].
+
+;agreement_n_rel
+ความเห็นด้วย := common-noun-lex &
+   [ STEM < "ความเห็นด้วย" >, SYNSEM.LKEYS.KEYREL.PRED "agreement_n_rel" ].
+
+;prize_n_rel
+รางวัล := common-noun-lex &
+   [ STEM < "รางวัล" >, SYNSEM.LKEYS.KEYREL.PRED "prize_n_rel" ].
+
+;family_n_rel
+ทางบ้าน := common-noun-lex &
+   [ STEM < "ทางบ้าน" >, SYNSEM.LKEYS.KEYREL.PRED "family_n_rel" ].
+
+;client_n_rel
+ลูกค้า := common-noun-lex &
+   [ STEM < "ลูกค้า" >, SYNSEM.LKEYS.KEYREL.PRED "client_n_rel" ].
+
+;umbrella_n_rel
+ร่ม := common-noun-lex &
+   [ STEM < "ร่ม" >, SYNSEM.LKEYS.KEYREL.PRED "umbrella_n_rel" ].
+
+;girlfriend_n_rel
+แฟน := common-noun-lex &
+   [ STEM < "แฟน" >, SYNSEM.LKEYS.KEYREL.PRED "girlfriend_n_rel" ].
+
+;snack_n_rel
+ขนม := common-noun-lex &
+   [ STEM < "ขนม" >, SYNSEM.LKEYS.KEYREL.PRED "snack_n_rel" ].
+
+;train_n_rel
+รถไฟ := common-noun-lex &
+   [ STEM < "รถไฟ" >, SYNSEM.LKEYS.KEYREL.PRED "train_n_rel" ].
+
+;newspaper_n_rel
+หนงัสือพิมพ์ := common-noun-lex &
+   [ STEM < "หนงัสือพิมพ์" >, SYNSEM.LKEYS.KEYREL.PRED "newspaper_n_rel" ].
+
+;cigarette_n_rel
+บุหรี่ := common-noun-lex &
+   [ STEM < "บุหรี่" >, SYNSEM.LKEYS.KEYREL.PRED "cigarette_n_rel" ].
+
+;murderer_n_rel
+ผ้รู้าย := common-noun-lex &
+   [ STEM < "ผ้รู้าย" >, SYNSEM.LKEYS.KEYREL.PRED "murderer_n_rel" ].
+
+;friend_n_rel
+พรรคพวก := common-noun-lex &
+   [ STEM < "พรรคพวก" >, SYNSEM.LKEYS.KEYREL.PRED "friend_n_rel" ].
+
+;older.sister_n_rel
+พี่สาว := common-noun-lex &
+   [ STEM < "พี่สาว" >, SYNSEM.LKEYS.KEYREL.PRED "older.sister_n_rel" ].
+
+;branch_n_rel
+กิ่งไม้ := common-noun-lex &
+   [ STEM < "กิ่งไม้" >, SYNSEM.LKEYS.KEYREL.PRED "branch_n_rel" ].
+
+;;; Names
+ 
+เมืองไทย_20761 := prop-noun-lex & [ STEM < "เมือง", "ไทย" >, SYNSEM.LKEYS.KEYREL.CARG "เมืองไทย" ].
+ 
+ประเทศไทย_4230 := prop-noun-lex & [ STEM < "ประเทศ", "ไทย" >, SYNSEM.LKEYS.KEYREL.CARG "ประเทศไทย" ].
+ 
+สนิท_22114 := prop-noun-lex & [ STEM < "สนิท" >, SYNSEM.LKEYS.KEYREL.CARG "สนิท" ].
+ 
+วิรัช_22305 := prop-noun-lex & [ STEM < "วิรัช" >, SYNSEM.LKEYS.KEYREL.CARG "วิรัช" ].
+ 
+วิลาศ_33087 := prop-noun-lex & [ STEM < "วิลาศ" >, SYNSEM.LKEYS.KEYREL.CARG "วิลาศ" ].
+ 
+บุญศรี_209393 := prop-noun-lex & [ STEM < "บุญศรี" >, SYNSEM.LKEYS.KEYREL.CARG "บุญศรี" ].
+ 
+สุรี_33142 := prop-noun-lex & [ STEM < "สุรี" >, SYNSEM.LKEYS.KEYREL.CARG "สุรี" ].
+ 
+ฮานอย := prop-noun-lex & [ STEM < "ฮานอย" >, SYNSEM.LKEYS.KEYREL.CARG "ฮานอย" ].
+
+ทามาโกะ_33142 := prop-noun-lex & [ STEM < "ทามาโกะ" >, SYNSEM.LKEYS.KEYREL.CARG "ทามาโกะ" ].
+
+ทาม := prop-noun-lex & [ STEM < "ทาม" >, SYNSEM.LKEYS.KEYREL.CARG "ทาม" ].
+
+เชียงใหม่ := prop-noun-lex & [ STEM < "เชียงใหม่" >, SYNSEM.LKEYS.KEYREL.CARG "เชียงใหม่" ].
+
+;;; Pronouns. All types inherit SYNSEM.LKEYS.KEYREL.PRED "pron_rel"
+ 
+ผม_4375 := m1sg-pronoun-lex & [ STEM < "ผม" > ].
+ 
+ฉัน_4379 := f1sg-pronoun-lex & [ STEM < "ฉัน" > ].
+ 
+เรา_4380 := 1pl-pronoun-lex & [ STEM < "เรา" > ].
+ 
+คุณ_4163 := 2sg-pronoun-lex & [ STEM < "คุณ" > ].
+ 
+เธอ_6488 := 2sg-pronoun-lex & [ STEM < "เธอ" > ].
+ 
+เขา_4096 := 3-pronoun-lex & [ STEM < "เขา" > ].
+ 
+มัน_8716 := ia-3-pronoun-lex & [ STEM < "มัน" > ].
+ 
+ทุกคน := 3-pronoun-lex & [ STEM < "ทุกคน" > ].
+
+เธอ := 3-pronoun-lex & [ STEM < "เธอ" > ].
+
+
+;;; Demonstrative pronoun
+ 
+นี่_4156 := demonst-pronoun-lex & [ STEM < "นี่" >, SYNSEM.LKEYS.ALTKEYREL.PRED proximal+dem_a_rel  ].
+ 
+นั่น_12158 := demonst-pronoun-lex & [ STEM < "นั่น" >, SYNSEM.LKEYS.ALTKEYREL.PRED mid+dem_a_rel  ].
+ 
+โน่น_14054 := demonst-pronoun-lex & [ STEM < "โน่น" >, SYNSEM.LKEYS.ALTKEYREL.PRED far+dem_a_rel  ].
+ 
+;;; Demonstrative determiners
+ 
+นี้_4513 := demonst-determiner-lex & [ STEM < "นี้" >, SYNSEM.LKEYS.ALTKEYREL.PRED proximal+dem_a_rel ].
+ 
+นั้น_4497 := demonst-determiner-lex & [ STEM < "นั้น" >, SYNSEM.LKEYS.ALTKEYREL.PRED mid+dem_a_rel ].
+ 
+โน้น_4498 := demonst-determiner-lex & [ STEM < "โน้น" >, SYNSEM.LKEYS.ALTKEYREL.PRED far+dem_a_rel ].
+ 
+;;; Numeral Classifiers
+ 
+ทาง_16333 := numcl-lex & [ STEM < "ทาง" > ].
+ 
+ตัว_4679 := numcl-lex & [ STEM < "ตัว" > ].
+ 
+คน_5061 := numcl-lex & [ STEM < "คน" > ].
+ 
+ผล_4698 := numcl-lex & [ STEM < "ผล" > ].
+ 
+เรื่อง_7216 := numcl-lex & [ STEM < "เรื่อง" > ].
+ 
+แห่ง_4681 := numcl-lex & [ STEM < "แห่ง" > ].
+ 
+หลัง_4687 := numcl-lex & [ STEM < "หลัง" > ].
+ 
+ลูก_5255 := numcl-lex & [ STEM < "ลูก" > ].
+ 
+ช่อง_5056 := numcl-lex & [ STEM < "ช่อง" > ].
+ 
+อัน_4749 := numcl-lex & [ STEM < "อัน" > ].
+ 
+ใบ_4700 := numcl-lex & [ STEM < "ใบ" > ].
+ 
+บท_5119 := numcl-lex & [ STEM < "บท" > ].
+ 
+คัน_4680 := numcl-lex & [ STEM < "คัน" > ].
+ 
+พวก_12771 := numcl-lex & [ STEM < "พวก" > ].
+ 
+แผ่น_4684 := numcl-lex & [ STEM < "แผ่น" > ].
+ 
+ภาษา_19123 := numcl-lex & [ STEM < "ภาษา" > ].
+ 
+เม็ด_5057 := numcl-lex & [ STEM < "เม็ด" > ].
+ 
+ดอก_13132 := numcl-lex & [ STEM < "ดอก" > ].
+ 
+เล่ม_4705 := numcl-lex & [ STEM < "เล่ม" > ].
+ 
+แท่ง_5813 := numcl-lex & [ STEM < "แท่ง" > ].
+ 
+ผืน_5298 := numcl-lex & [ STEM < "ผืน" > ].
+ 
+ด้าม_5567 := numcl-lex & [ STEM < "ด้าม" > ].
+ 
+ทาง_16333_d := sg-demonst-numcl-lex & [ STEM < "ทาง" > ].
+ 
+ตัว_4679_d := sg-demonst-numcl-lex & [ STEM < "ตัว" > ].
+ 
+คน_5061_d := sg-demonst-numcl-lex & [ STEM < "คน" > ].
+ 
+ผล_4698_d := sg-demonst-numcl-lex & [ STEM < "ผล" > ].
+ 
+เรื่อง_7216_d := sg-demonst-numcl-lex & [ STEM < "เรื่อง" > ].
+ 
+แห่ง_4681_d := sg-demonst-numcl-lex & [ STEM < "แห่ง" > ].
+ 
+หลัง_4687_d := sg-demonst-numcl-lex & [ STEM < "หลัง" > ].
+ 
+ลูก_5255_d := sg-demonst-numcl-lex & [ STEM < "ลูก" > ].
+ 
+ช่อง_5056_d := sg-demonst-numcl-lex & [ STEM < "ช่อง" > ].
+ 
+อัน_4749_d := sg-demonst-numcl-lex & [ STEM < "อัน" > ].
+ 
+ใบ_4700_d := sg-demonst-numcl-lex & [ STEM < "ใบ" > ].
+ 
+บท_5119_d := sg-demonst-numcl-lex & [ STEM < "บท" > ].
+ 
+คัน_4680_d := sg-demonst-numcl-lex & [ STEM < "คัน" > ].
+ 
+พวก_12771_d := pl-demonst-numcl-lex & [ STEM < "พวก" > ].
+ 
+แผ่น_4684_d := sg-demonst-numcl-lex & [ STEM < "แผ่น" > ].
+ 
+ภาษา_19123_d := sg-demonst-numcl-lex & [ STEM < "ภาษา" > ].
+ 
+เม็ด_5057_d := sg-demonst-numcl-lex & [ STEM < "เม็ด" > ].
+ 
+ดอก_13132_d := sg-demonst-numcl-lex & [ STEM < "ดอก" > ].
+ 
+เล่ม_4705_d := sg-demonst-numcl-lex & [ STEM < "เล่ม" > ].
+ 
+แท่ง_5813_d := sg-demonst-numcl-lex & [ STEM < "แท่ง" > ].
+ 
+ผืน_5298_d := sg-demonst-numcl-lex & [ STEM < "ผืน" > ].
+ 
+ด้าม_5567_d := sg-demonst-numcl-lex & [ STEM < "ด้าม" > ].
+ 
+;;; Intransitive Verbs
+ 
+นอน_4794 := i-no-stat-int-verb-lex &
+   [ STEM < "นอน" >, SYNSEM.LKEYS.KEYREL.PRED "_sleep_v_1_rel" ].
+ 
+พูด_4159 := i-no-stat-int-verb-lex &
+   [ STEM < "พูด" >, SYNSEM.LKEYS.KEYREL.PRED "_speak_v_1_rel" ].
+ 
+ตาย_7072 := i-no-stat-no-int-verb-lex &
+   [ STEM < "ตาย" >, SYNSEM.LKEYS.KEYREL.PRED "_die_v_1_rel" ].
+ 
+วิ่ง_4266 := i-mot-intent-verb-lex &
+   [ STEM < "วิ่ง" >, SYNSEM.LKEYS.KEYREL.PRED "_run_v_1_rel" ].
+ 
+รีบ_11186 := i-verb-lex & [ STEM < "รีบ" >, SYNSEM.LKEYS.KEYREL.PRED "_hurry_v_1_rel" ].
+ 
+ตื่น_5215 := i-verb-lex & [ STEM < "ตื่น" >, SYNSEM.LKEYS.KEYREL.PRED "_wake-up_v_rel" ].
+ 
+ทลาย_7722 := i-verb-lex & [ STEM < "ทลาย" >, SYNSEM.LKEYS.KEYREL.PRED "_collapse_v_1_rel" ].
+ 
+เหม็น_33172 := i-verb-lex & [ STEM < "เหม็น" >, SYNSEM.LKEYS.KEYREL.PRED "_smells.bad_v_rel" ].
+ 
+;_walk_v_1_rel
+เดิน_4282 := i-mot-intent-verb-lex &
+  [ STEM < "เดิน" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_walk_v_1_rel" ].
+ 
+;_fall_v_1_rel
+ตก_4450 := i-no-stat-no-int-verb-lex &
+  [ STEM < "ตก" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_fall_v_1_rel" ].
+ 
+;_move-back_v_1_rel
+ถอย_6183 := i-verb-lex &
+  [ STEM < "ถอย" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_move-back_v_rel" ].
+ 
+;_halt_v_1_rel
+หยุดชะงัก_206130 := i-verb-lex &
+  [ STEM < "หยุด", "ชะงัก" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_halt_v_1_rel" ].
+ 
+;_bloom_v_1_rel
+บาน_5433 := i-verb-lex &
+  [ STEM < "บาน" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_bloom_v_1_rel" ].
+ 
+;_drip_v_1_rel
+ซึม_14350 := i-verb-lex &
+  [ STEM < "ซึม" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_drip_v_1_rel" ].
+ 
+;_laugh_v_1_rel
+หัวเราะ_23173 := i-verb-lex &
+  [ STEM < "หัวเราะ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_laugh_v_1_rel" ].
+ 
+;_dance_v_1_rel
+รำ_4342 := i-verb-lex &
+  [ STEM < "รำ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_dance_v_1_rel" ].
+ 
+;_struggle_v_1_rel
+ดิ้น_20273 := i-verb-lex &
+  [ STEM < "ดิ้น" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_struggle_v_1_rel" ].
+ 
+;_turn_v_1_rel
+เลี้ยว_4387 := i-dir-verb-lex &
+  [ STEM < "เลี้ยว" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_turn_v_rel" ].
+ 
+;_smile_v_1_rel
+ยิ้ม_4119 := i-verb-lex &
+  [ STEM < "ยิ้ม" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_smile_v_1_rel" ].
+ 
+กินข้าว_197567 := i-no-stat-int-verb-lex &
+  [ STEM < "กิน", "ข้าว" >, 
+    SYNSEM.LKEYS.KEYREL.PRED "_eat_v_2_rel" ].
+ 
+;be.full_v_rel
+อิ่ม := i-stat-no-int-verb-lex &
+    [ STEM < "อิ่ม" >,
+    SYNSEM.LKEYS.KEYREL.PRED "be.full_v_rel" ].
+
+;be.gone_v_rel
+หมด := i-stat-no-int-verb-lex &
+   [ STEM < "หมด" >,
+   SYNSEM.LKEYS.KEYREL.PRED "be.gone_v_rel" ].
+
+;fall_v_rel
+ล้ม := i-no-stat-no-int-verb-lex &
+   [ STEM < "ล้ม" >,
+   SYNSEM.LKEYS.KEYREL.PRED "fall_v_rel" ].
+
+;be.tired_v_rel
+เหนื่อย := i-stat-no-int-verb-lex &
+   [ STEM < "เหนื่อย" >,
+   SYNSEM.LKEYS.KEYREL.PRED "be.tired_v_rel" ].
+
+;be.bored_v_rel
+เบื่อ := i-stat-no-int-verb-lex &
+   [ STEM < "เบื่อ" >,
+   SYNSEM.LKEYS.KEYREL.PRED "be.bored_v_rel" ].
+
+;be.drunk_v_rel
+เมา := i-stat-int-verb-lex &
+   [ STEM < "เมา" >,
+   SYNSEM.LKEYS.KEYREL.PRED "be.drunk_v_rel" ].
+
+;be.flat_v_rel
+แบน := i-stat-no-int-verb-lex &
+   [ STEM < "แบน" >,
+   SYNSEM.LKEYS.KEYREL.PRED "be.flat_v_rel" ].
+
+;be.extinguished_v_rel
+ดับ := i-stat-no-int-verb-lex &
+   [ STEM < "ดับ" >,
+   SYNSEM.LKEYS.KEYREL.PRED "be.extinguished_v_rel" ].
+
+;be.scared_v_rel
+กลัว := i-stat-no-int-verb-lex &
+   [ STEM < "กลัว" >,
+   SYNSEM.LKEYS.KEYREL.PRED "be.scared_v_rel" ].
+
+;become.sick_v_rel
+ป่วย := i-no-stat-no-int-verb-lex &
+   [ STEM < "ป่วย" >,
+   SYNSEM.LKEYS.KEYREL.PRED "become.sick_v_rel" ].
+
+;explode_v_rel
+ระเบิด := i-no-stat-no-int-verb-lex &
+   [ STEM < "ระเบิด" >,
+   SYNSEM.LKEYS.KEYREL.PRED "explode_v_rel" ].
+
+;break_v_rel
+แตก := i-no-stat-no-int-verb-lex &
+   [ STEM < "แตก" >,
+   SYNSEM.LKEYS.KEYREL.PRED "break_v_rel" ].
+
+;stand_v_rel
+ยืน := i-posture-verb-lex &
+   [ STEM < "ยืน" >,
+   SYNSEM.LKEYS.KEYREL.PRED "stand_v_rel" ].
+
+;sing_v_rel
+ร้องเพลง := i-no-stat-int-verb-lex &
+   [ STEM < "ร้องเพลง" >,
+   SYNSEM.LKEYS.KEYREL.PRED "sing_v_rel" ].
+
+;cry_v_rel
+ร้องไห้ := i-no-stat-no-int-verb-lex &
+   [ STEM < "ร้องไห้" >,
+   SYNSEM.LKEYS.KEYREL.PRED "cry_v_rel" ].
+
+;sit_v_rel
+นั่ง := i-posture-verb-lex &
+   [ STEM < "นั่ง" >,
+   SYNSEM.LKEYS.KEYREL.PRED "sit_v_rel" ].
+
+;worry_v_rel
+วิตก := i-no-stat-no-int-verb-lex &
+   [ STEM < "วิตก" >,
+   SYNSEM.LKEYS.KEYREL.PRED "worry_v_rel" ].
+
+;lean.out_v_rel
+ชะโงก := i-posture-verb-lex &
+   [ STEM < "ชะโงก" >,
+   SYNSEM.LKEYS.KEYREL.PRED "lean.out_v_rel" ].
+
+;stare_v_rel
+มอง := i-no-stat-int-verb-lex &
+   [ STEM < "มอง" >,
+   SYNSEM.LKEYS.KEYREL.PRED "stare_v_rel" ].
+
+;hiccup_v_rel
+สะอึก := i-no-stat-no-int-verb-lex &
+   [ STEM < "สะอึก" >,
+   SYNSEM.LKEYS.KEYREL.PRED "hiccup_v_rel" ].
+
+;be.upset_v_rel
+กลุ้มใจ := i-stat-no-int-verb-lex &
+   [ STEM < "กลุ้มใจ" >,
+   SYNSEM.LKEYS.KEYREL.PRED "be.upset_v_rel" ].
+
+;be.happy_v_rel
+ดีใจ := i-stat-no-int-verb-lex &
+   [ STEM < "ดีใจ" >,
+   SYNSEM.LKEYS.KEYREL.PRED "be.happy_v_rel" ].
+
+;dance_v_rel
+เต้นรำ := i-verb-lex & [ STEM < "เต้นรำ" >, SYNSEM.LKEYS.KEYREL.PRED "dance_v_rel" ].
+
+;open_v_rel
+เปิด_1 := i-no-stat-no-int-verb-lex &
+  [ STEM < "เปิด" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_open_v_1_rel" ].
+
+;blow.away_v_rel
+ปลิว_1 := i-no-stat-no-int-verb-lex &
+  [ STEM < "ปลิว" >, SYNSEM.LKEYS.KEYREL.PRED "_blow.away_v_rel" ].
+
+;be.clean_v_rel
+สะอาด_1 := i-stat-no-int-verb-lex &
+  [ STEM < "สะอาด" >, SYNSEM.LKEYS.KEYREL.PRED "_be.clean_v_rel" ].
+
+;slide_v_rel
+ลื่น := i-no-stat-no-int-verb-lex & [ STEM < "ลื่น" >, SYNSEM.LKEYS.KEYREL.PRED "slide_v_rel" ].
+
+;go.straight_v_rel
+ตรง := i-dir-verb-lex & [ STEM < "ตรง" >, SYNSEM.LKEYS.KEYREL.PRED "go.straight_v_rel" ].
+
+;descend_v_rel
+ลง := i-dir-verb-lex & [ STEM < "ลง" >, SYNSEM.LKEYS.KEYREL.PRED "descend_v_rel" ].
+
+;swim_v_rel
+ว่ายนำ := i-mot-intent-verb-lex &
+   [ STEM <"ว่ายนำ" >, SYNSEM.LKEYS.KEYREL.PRED "_swim_v_1_rel" ].
+
+;flow_v_rel
+ไหล :=  i-mot-intent-verb-lex &
+   [ STEM <"ไหล" >, SYNSEM.LKEYS.KEYREL.PRED "_flow_v_1_rel" ].
+
+;slither_v_rel
+เลื้อย := i-mot-intent-verb-lex &
+   [STEM < "เลื้อย" >, SYNSEM.LKEYS.KEYREL.PRED "_slither_v_1_rel"].
+
+;plunge_v_rel
+ถลา := i-mot-intent-verb-lex &
+   [STEM <"ถลา" >, SYNSEM.LKEYS.KEYREL.PRED "_plunge_v_1_rel"].
+
+;glide_v_rel
+ร่อน := i-mot-intent-verb-lex &
+   [STEM <"ร่อน" >,  SYNSEM.LKEYS.KEYREL.PRED "_glide_v_1_rel"].
+
+;pant_v_rel
+หอบ := i-no-stat-no-int-verb-lex &
+   [STEM <"หอบ">, SYNSEM.LKEYS.KEYREL.PRED "_pant_v_1_rel"].
+
+;jump_v_rel
+กระโดด := i-mot-intent-verb-lex &
+   [STEM <"กระโดด">, SYNSEM.LKEYS.KEYREL.PRED "_pant_v_1_rel"].
+
+;drown_v_rel
+จม := i-no-stat-no-int-verb-lex &
+   [STEM <"จม">, SYNSEM.LKEYS.KEYREL.PRED "_drown_v_1_rel"].
+
+;circle_v_rel
+วน := i-dir-verb-lex &
+   [STEM <"วน">, SYNSEM.LKEYS.KEYREL.PRED "_circle_v_1_rel"].
+
+;dive_v_rel
+ดำ := i-mot-intent-verb-lex &
+ [STEM <"ดำ">, SYNSEM.LKEYS.KEYREL.PRED "_dive_v_1_rel"].
+
+;collapse_v_rel
+พัง := i-no-stat-no-int-verb-lex &
+   [STEM <"พัง">, SYNSEM.LKEYS.KEYREL.PRED "_collapse_v_1_rel"].
+
+;be.flat_v_rel
+ราบ := i-stat-no-int-verb-lex &
+   [STEM <"ราบ">, SYNSEM.LKEYS.KEYREL.PRED "_be.flat_v_1_rel"].
+
+;stare_v_rel
+จ้อง := i-no-stat-int-verb-lex &
+   [STEM <"จ้อง">,  SYNSEM.LKEYS.KEYREL.PRED "_stare_v_1_rel"].
+
+;kneel_v_rel
+ทรุด := i-posture-verb-lex &
+   [STEM <"ทรุด">,  SYNSEM.LKEYS.KEYREL.PRED "_kneel_v_1_rel"].
+   
+;soar_v_rel
+โผน := i-mot-intent-verb-lex &
+   [STEM <"โผน">,  SYNSEM.LKEYS.KEYREL.PRED "_soar_v_1_rel"].
+   
+;wander_v_rel
+เพ่นพ่าน := i-mot-intent-verb-lex &
+   [STEM <"เพ่นพ่าน">, SYNSEM.LKEYS.KEYREL.PRED "_wander_v_1_rel"].
+
+;swarm_v_rel
+กรู := i-mot-intent-verb-lex &
+   [STEM <"กรู">, SYNSEM.LKEYS.KEYREL.PRED "_swarm_v_1_rel"]. 
+
+;listen_v_rel
+รับฟัง := i-no-stat-int-verb-lex &
+   [STEM <"รับฟัง">,  SYNSEM.LKEYS.KEYREL.PRED "_listen_v_1_rel"].
+
+;answer.phone_v_rel
+รับสาย := i-no-stat-int-verb-lex &
+   [STEM <"รับสาย">, SYNSEM.LKEYS.KEYREL.PRED "_answer.phone_v_1_rel"].
+
+;head.towards_v_rel
+มุ่งหน้า := i-dir-verb-lex &
+   [STEM <"มุ่งหน้า">, SYNSEM.LKEYS.KEYREL.PRED "_head.towards_v_1_rel"].
+
+;shower_v_rel
+อาบนำ := i-no-stat-int-verb-lex &
+   [STEM <"อาบนำ">, SYNSEM.LKEYS.KEYREL.PRED "_shower_v_1_rel"].
+   
+;sleep_v_rel
+นอน_1 := i-no-stat-int-verb-lex &
+   [STEM <"นอน">,  SYNSEM.LKEYS.KEYREL.PRED "_sleep_v_1_rel"].
+
+;_lie.down_v_rel
+นอน := i-posture-verb-lex &
+   [STEM <"นอน">,  SYNSEM.LKEYS.KEYREL.PRED "_lie.down_v_1_rel"].
+   
+;float_v_rel
+ลอย := i-mot-intent-verb-lex &
+   [STEM <"ลอย">, SYNSEM.LKEYS.KEYREL.PRED "_float_v_1_rel"].
+
+บิน := i-mot-intent-verb-lex & [ STEM < "บิน" >, SYNSEM.LKEYS.KEYREL.PRED "_fly_v_1_rel" ].
+
+หัน := i-mot-intent-verb-lex & [ STEM < "หัน" >, SYNSEM.LKEYS.KEYREL.PRED "_turn_v_1_rel" ].
+
+;;; Transitive Verbs which permit object drop
+ 
+มา_4233 := drop-t-deictic-verb-lex &
+   [ STEM < "มา" >,
+   SYNSEM.LKEYS.KEYREL.PRED "_come_v_1_rel" ].
+ 
+ไป_4158 := drop-t-deictic-verb-lex &
+   [ STEM < "ไป" >,
+   SYNSEM.LKEYS.KEYREL.PRED "_go_v_1_rel" ].
+ 
+ถึง_4442 := drop-t-verb-lex & [ STEM < "ถึง" >, SYNSEM.LKEYS.KEYREL.PRED "_arrive_v_rel" ].
+ 
+อยู่_4483 := drop-t-verb-lex & [ STEM < "อยู่" >, SYNSEM.LKEYS.KEYREL.PRED "_located_v_rel" ].
+ 
+ซื้อ_4236 := drop-t-no-stat-int-verb-lex &
+   [ STEM < "ซื้อ" >,
+   SYNSEM.LKEYS.KEYREL.PRED "_buy_v_1_rel" ].
+ 
+เกิด_5478 := drop-t-verb-lex & [ STEM < "เกิด" >, SYNSEM.LKEYS.KEYREL.PRED "_happen_v_rel" ].
+ 
+เห็น_4830 := drop-t-verb-lex & [ STEM < "เห็น" >, SYNSEM.LKEYS.KEYREL.PRED "_see_v_1_rel" ].
+ 
+;_assist_v_1_rel
+ช่วย_4701 := drop-t-verb-lex &
+  [ STEM < "ช่วย" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_assist_v_rel" ].
+ 
+ดู_4338 := drop-t-verb-lex & [ STEM < "ดู" >, SYNSEM.LKEYS.KEYREL.PRED "_look_v_1_rel" ].
+ 
+กลับ_4396 := drop-t-dir-verb-lex &
+   [ STEM < "กลับ" >,
+   SYNSEM.LKEYS.KEYREL.PRED "_return_v_1_rel" ].
+ 
+เรียก_5674 := drop-t-verb-lex & [ STEM < "เรียก" >, SYNSEM.LKEYS.KEYREL.PRED "_call_v_1_rel" ].
+ 
+ฟัง_6579 := drop-t-verb-lex & [ STEM < "ฟัง" >, SYNSEM.LKEYS.KEYREL.PRED "_listen_v_1_rel" ].
+ 
+ขับ_4952 := drop-t-verb-lex & [ STEM < "ขับ" >, SYNSEM.LKEYS.KEYREL.PRED "_drive_v_1_rel" ].
+ 
+เสร็จ_22475 := drop-t-verb-lex & [ STEM < "เสร็จ" >, SYNSEM.LKEYS.KEYREL.PRED "_finish_v_1_rel" ].
+ 
+บอก_8328 := drop-t-verb-lex & [ STEM < "บอก" >, SYNSEM.LKEYS.KEYREL.PRED "_say_v_1_rel" ].
+ 
+เขียน_4274 := drop-t-no-stat-int-verb-lex &
+   [ STEM < "เขียน" >,
+   SYNSEM.LKEYS.KEYREL.PRED "_write_v_1_rel" ].
+ 
+อ่าน_4518 := drop-t-no-stat-int-verb-lex &
+   [ STEM < "อ่าน" >,
+   SYNSEM.LKEYS.KEYREL.PRED "_read_v_1_rel" ].
+ 
+กิน_6578 := drop-t-no-stat-int-verb-lex &
+   [ STEM < "กิน" >,
+   SYNSEM.LKEYS.KEYREL.PRED "_eat_v_1_rel" ].
+ 
+ทาน_17666 := drop-t-no-stat-int-verb-lex &
+   [ STEM < "ทาน" >,
+   SYNSEM.LKEYS.KEYREL.PRED "_eat_v_3_rel" ].
+ 
+เรียน_4270 := drop-t-verb-lex & [ STEM < "เรียน" >, SYNSEM.LKEYS.KEYREL.PRED "_study_v_1_rel" ].
+ 
+ 
+เล่น := drop-t-no-stat-int-verb-lex & [ STEM < "เล่น" >, SYNSEM.LKEYS.KEYREL.PRED "_play_v_1_rel" ].
+
+พรีเซ้นต์ := drop-t-no-stat-int-verb-lex & [ STEM < "พรีเซ้นต์" >, SYNSEM.LKEYS.KEYREL.PRED "_present_v_1_rel" ].
+
+นำหน้า := drop-t-dir-verb-lex & [ STEM < "นำหน้า" >, SYNSEM.LKEYS.KEYREL.PRED "_lead_v_1_rel" ].
+
+ย่ำยำย่าง := drop-t-mot-intent-verb-lex & [ STEM < "ย่ำยำย่าง" >, SYNSEM.LKEYS.KEYREL.PRED "_trample_v_1_rel" ].
+
+ปล่อย := drop-t-mot-intent-verb-lex & [ STEM < "ปล่อย" >, SYNSEM.LKEYS.KEYREL.PRED "_release_v_1_rel" ].
+
+ตาม := drop-t-dir-verb-lex & [ STEM < "ตาม" >, SYNSEM.LKEYS.KEYREL.PRED "_follow_v_1_rel" ].
+
+กำชับ := drop-t-no-stat-int-verb-lex & [ STEM < "กำชับ" >, SYNSEM.LKEYS.KEYREL.PRED "_urge_v_1_rel" ].
+
+ตัด := drop-t-dir-verb-lex & [ STEM < "ตัด" >, SYNSEM.LKEYS.KEYREL.PRED "_cut_v_1_rel" ].
+
+ค้นหา := drop-t-no-stat-int-verb-lex & [ STEM < "ค้นหา" >, SYNSEM.LKEYS.KEYREL.PRED "_hunt_v_1_rel" ].
+
+มอง_1 := drop-t-no-stat-int-verb-lex & [ STEM < "มอง" >, SYNSEM.LKEYS.KEYREL.PRED "_look_v_1_rel" ].
+
+แกว่งไกว := drop-t-no-stat-int-verb-lex & [ STEM < "แกว่งไกว" >, SYNSEM.LKEYS.KEYREL.PRED "_brandish_v_1_rel" ].
+
+หลอกล่อ := drop-t-no-stat-int-verb-lex & [ STEM < "หลอกล่อ" >, SYNSEM.LKEYS.KEYREL.PRED "_entice_v_1_rel" ].
+
+แยก := drop-t-no-stat-int-verb-lex & [ STEM < "แยก" >, SYNSEM.LKEYS.KEYREL.PRED "_separate_v_1_rel" ].
+
+ฉีก := drop-t-no-stat-int-verb-lex & [ STEM < "ฉีก" >, SYNSEM.LKEYS.KEYREL.PRED "_rip_v_1_rel" ].
+
+ร่วม := drop-t-no-stat-int-verb-lex & [ STEM < "ร่วม" >, SYNSEM.LKEYS.KEYREL.PRED "_share_v_1_rel" ].
+
+แช่ := drop-t-no-stat-int-verb-lex & [ STEM < "แช่" >, SYNSEM.LKEYS.KEYREL.PRED "_soak_v_1_rel" ].
+
+ขึ้น := drop-t-dir-verb-lex & [ STEM < "ขึ้น" >, SYNSEM.LKEYS.KEYREL.PRED "_ascend_v_1_rel" ].
+
+ปิง := drop-t-no-stat-int-verb-lex & [ STEM < "ปิง" >, SYNSEM.LKEYS.KEYREL.PRED "_grill_v_1_rel" ].
+
+ยื่น := drop-t-no-stat-int-verb-lex & [ STEM < "ยื่น" >, SYNSEM.LKEYS.KEYREL.PRED "_extend_v_1_rel" ].
+
+จุด := drop-t-no-stat-int-verb-lex & [ STEM < "จุด" >, SYNSEM.LKEYS.KEYREL.PRED "_light_v_1_rel" ].
+
+ล้าง := drop-t-no-stat-int-verb-lex & [ STEM < "ล้าง" >, SYNSEM.LKEYS.KEYREL.PRED "_wash_v_1_rel" ].
+
+
+หยิบ := drop-t-no-stat-int-verb-lex & [ STEM < "หยิบ" >, SYNSEM.LKEYS.KEYREL.PRED "_take_v_1_rel" ].
+
+พุ่ง := drop-t-mot-intent-verb-lex & [ STEM < "พุ่ง" >, SYNSEM.LKEYS.KEYREL.PRED "_hurl_v_1_rel" ].
+
+โดด := drop-t-mot-intent-verb-lex & [ STEM < "โดด" >, SYNSEM.LKEYS.KEYREL.PRED "_jump_v_1_rel" ].
+
+ย้อน := drop-t-dir-verb-lex & [ STEM < "ย้อน" >, SYNSEM.LKEYS.KEYREL.PRED "_return_v_1_rel" ].
+
+
+;;; Transitive Verbs with mandatory object
+ 
+เป็น_33088 := no-drop-t-verb-lex & [ STEM < "เป็น" >, SYNSEM.LKEYS.KEYREL.PRED "_be_v_id_rel" ].
+ 
+ได้_4445 := no-drop-t-verb-lex & [ STEM < "ได้" >, SYNSEM.LKEYS.KEYREL.PRED "_can_v_rel" ].
+ 
+มี_4210 := no-drop-t-verb-lex & [ STEM < "มี" >, SYNSEM.LKEYS.KEYREL.PRED "_have_v_1_rel" ].
+ 
+เรื่อง_33230 := no-drop-t-verb-lex & [ STEM < "เรื่อง" >, SYNSEM.LKEYS.KEYREL.PRED "_is.about_v_rel" ].
+ 
+สร้าง_5601 := no-drop-t-verb-lex & [ STEM < "สร้าง" >, SYNSEM.LKEYS.KEYREL.PRED "_build_v_1_rel" ].
+ 
+คือ_4298 := no-drop-t-verb-lex & [ STEM < "คือ" >, SYNSEM.LKEYS.KEYREL.PRED "_be_v_id_rel" ].
+ 
+รัก_4288 := no-drop-t-verb-lex & [ STEM < "รัก" >, SYNSEM.LKEYS.KEYREL.PRED "_love_v_1_rel" ].
+ 
+เกี่ยวกับ_219756 := no-drop-t-verb-lex & [ STEM < "เกี่ยวกับ" >, SYNSEM.LKEYS.KEYREL.PRED "_concern_v_1_rel" ].
+ 
+เก็บ_29645 := no-drop-t-verb-lex & [ STEM < "เก็บ" >, SYNSEM.LKEYS.KEYREL.PRED "_put.away_v_rel" ].
+ 
+เต็ม_6658 := no-drop-t-verb-lex & [ STEM < "เต็ม" >, SYNSEM.LKEYS.KEYREL.PRED "_fill_v_1_rel" ].
+ 
+แต่ง_18416 := no-drop-t-verb-lex & [ STEM < "แต่ง" >, SYNSEM.LKEYS.KEYREL.PRED "_compose_v_1_rel" ].
+ 
+เยี่ยม_10408 := no-drop-t-verb-lex & [ STEM < "เยี่ยม" >, SYNSEM.LKEYS.KEYREL.PRED "_visit_v_1_rel" ].
+ 
+ตี_4243 := no-drop-t-no-stat-int-verb-lex &
+   [ STEM < "ตี" >,
+   SYNSEM.LKEYS.KEYREL.PRED "_hit_v_1_rel" ].
+ 
+ไล่_5834 := no-drop-t-no-stat-int-verb-lex &
+   [ STEM < "ไล่" >,
+   SYNSEM.LKEYS.KEYREL.PRED "_chase_v_1_rel" ].
+ 
+ข้าม_6302 := no-drop-t-dir-verb-lex &
+   [ STEM < "ข้าม" >,
+   SYNSEM.LKEYS.KEYREL.PRED "_cross_v_1_rel" ].
+
+ผ่าน := no-drop-t-dir-verb-lex & [ STEM < "ผ่าน" >,
+				  SYNSEM.LKEYS.KEYREL.PRED "_pass_v_1_rel" ].
+
+เตะ_8560 := no-drop-t-no-stat-int-verb-lex &
+   [ STEM < "เตะ" >,
+   SYNSEM.LKEYS.KEYREL.PRED "_kick_v_1_rel" ].
+ 
+เย็บ_4328 := no-drop-t-verb-lex & [ STEM < "เย็บ" >, SYNSEM.LKEYS.KEYREL.PRED "_sew_v_1_rel" ].
+ 
+เช็ด_6231 := no-drop-t-verb-lex & [ STEM < "เช็ด" >, SYNSEM.LKEYS.KEYREL.PRED "_wipe_v_1_rel" ].
+ 
+;_receive_v_1_rel
+รับ_4494 := no-drop-t-verb-lex &
+  [ STEM < "รับ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_receive_v_1_rel" ].
+ 
+;_use_v_1_rel
+ใช้_4520 := no-drop-t-verb-lex &
+  [ STEM < "ใช้" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_use_v_1_rel" ].
+ 
+;_open_v_1_rel
+เปิด_4346 := no-drop-t-no-stat-int-verb-lex &
+  [ STEM < "เปิด" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_open_v_1_rel" ].
+ 
+;_send_v_1_rel
+ส่ง_4395 := no-drop-t-verb-lex &
+  [ STEM < "ส่ง" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_send_v_1_rel" ].
+ 
+;arrange_adjust_v_1_rel
+จัด_4595 := no-drop-t-verb-lex &
+  [ STEM < "จัด" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_arrange_v_1_rel" ].
+ 
+;_mix_v_1_rel
+คน_7500 := no-drop-t-verb-lex &
+  [ STEM < "คน" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_mix_v_1_rel" ].
+ 
+;_sell_v_1_rel
+ขาย_4252 := no-drop-t-verb-lex &
+  [ STEM < "ขาย" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_sell_v_1_rel" ].
+     
+;_choose_v_1_rel
+คัด_4505 := no-drop-t-verb-lex &
+  [ STEM < "คัด" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_choose_v_1_rel" ].
+ 
+;_add_v_1_rel
+ใส่_4129 := no-drop-t-verb-lex &
+  [ STEM < "ใส่" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_add_v_1_rel" ].
+ 
+;_apply_v_1_rel
+ทา_5081 := no-drop-t-verb-lex &
+  [ STEM < "ทา" >,
+  SYNSEM.LKEYS.KEYREL.PRED "_apply_v_rel" ].
+    
+;_enter_v_rel
+เข้า := no-drop-t-dir-verb-lex &
+  [ STEM < "เข้า" >,
+  SYNSEM.LKEYS.KEYREL.PRED "_enter_v_rel" ].
+
+;_talk_v_rel
+คุย := no-drop-t-no-stat-int-verb-lex &
+  [ STEM < "คุย" >, SYNSEM.LKEYS.KEYREL.PRED "_talk_v_rel" ].
+
+;_borrow_v_rel
+ยืม := no-drop-t-no-stat-int-verb-lex &
+  [ STEM < "ยืม" >, SYNSEM.LKEYS.KEYREL.PRED "_borrow_v_rel" ].
+
+;_shoot_v_rel
+ยิง := no-drop-t-no-stat-int-verb-lex &
+  [ STEM < "ยิง" >, SYNSEM.LKEYS.KEYREL.PRED "_shoot_v_rel" ].
+
+;_throw_v_rel
+ขว้าง := no-drop-t-mot-intent-verb-lex &
+  [ STEM < "ขว้าง" >, SYNSEM.LKEYS.KEYREL.PRED "_throw_v_rel" ].
+
+;_exit_v_rel
+ออก := no-drop-t-dir-verb-lex &
+  [ STEM < "ออก" >, SYNSEM.LKEYS.KEYREL.PRED "_exit_v_rel" ].
+
+;_butt_v_rel
+ขวิด := no-drop-t-no-stat-int-verb-lex &
+  [ STEM < "ขวิด" >, SYNSEM.LKEYS.KEYREL.PRED "_butt_v_rel" ].
+
+;_push_v_rel
+ผลัก := no-drop-t-no-stat-int-verb-lex &
+  [ STEM < "ผลัก" >, SYNSEM.LKEYS.KEYREL.PRED "_push_v_rel" ].
+
+;_ride_v_rel
+ขี่ := no-drop-t-mot-intent-verb-lex &
+  [ STEM < "ขี่" >, SYNSEM.LKEYS.KEYREL.PRED "_ride_v_rel" ].
+
+;_sweep_v_rel
+กวาด := no-drop-t-no-stat-int-verb-lex &
+  [ STEM < "กวาด" >, SYNSEM.LKEYS.KEYREL.PRED "_sweep_v_rel" ].
+
+;_clean_v_rel
+สะอาด := no-drop-t-no-stat-int-verb-lex &
+  [ STEM < "สะอาด" >, SYNSEM.LKEYS.KEYREL.PRED "_clean_v_rel" ].
+
+;_do_v_rel
+ทำ := no-drop-t-no-stat-int-verb-lex &
+  [ STEM < "ทำ" >, SYNSEM.LKEYS.KEYREL.PRED "_do_v_rel" ].
+
+;_smash_v_rel
+ทุบ := no-drop-t-verb-lex &
+  [ STEM < "ทุบ" >, SYNSEM.LKEYS.KEYREL.PRED "_smash_v_rel" ].
+
+;_blow_v_rel
+พัด := no-drop-t-no-stat-int-verb-lex &
+  [ STEM < "พัด" >, SYNSEM.LKEYS.KEYREL.PRED "_blow_v_rel" ].
+
+;_blow.away_v_rel
+ปลิว := no-drop-t-no-stat-no-int-verb-lex &
+  [ STEM < "ปลิว" >, SYNSEM.LKEYS.KEYREL.PRED "_blow.away_v_rel" ].
+
+;_drink_v_rel
+ดื่ม := no-drop-t-no-stat-int-verb-lex &
+  [ STEM < "ดื่ม" >, SYNSEM.LKEYS.KEYREL.PRED "_drink_v_rel" ].
+
+;_blow.out_v_rel
+เป่า := no-drop-t-no-stat-int-verb-lex &
+  [ STEM < "เป่า" >, SYNSEM.LKEYS.KEYREL.PRED "_blow.out_v_rel" ].
+
+;_believe_v_rel
+เชื่อ := no-drop-t-stat-no-int-verb-lex &
+  [ STEM < "เชื่อ" >, SYNSEM.LKEYS.KEYREL.PRED "_believe_v_rel" ].
+
+;_knock_v_rel
+เคาะ := no-drop-t-no-stat-int-verb-lex &
+  [ STEM < "เคาะ" >, SYNSEM.LKEYS.KEYREL.PRED "_knock_v_rel" ].
+
+;_fry_v_rel
+ผัด := no-drop-t-no-stat-int-verb-lex &
+  [ STEM < "ผัด" >, SYNSEM.LKEYS.KEYREL.PRED "_fry_v_rel" ].
+
+;_seek_v_rel
+หา := no-drop-t-no-stat-int-verb-lex &
+  [ STEM < "หา" >, SYNSEM.LKEYS.KEYREL.PRED "_seek_v_rel" ].
+
+;_overtake_v_rel
+ทัน := no-drop-t-no-stat-int-verb-lex &
+  [ STEM < "ทัน" >, SYNSEM.LKEYS.KEYREL.PRED "_overtake_v_rel" ].
+
+;_find_v_rel
+พบ := no-drop-t-no-stat-no-int-verb-lex &
+  [ STEM < "พบ" >, SYNSEM.LKEYS.KEYREL.PRED "_find_v_rel" ].
+
+;find_v_rel
+เจอ := no-drop-t-no-stat-no-int-verb-lex &
+   [STEM < "เจอ" >, SYNSEM.LKEYS.KEYREL.PRED "_find_v_rel" ].
+
+;_win_v_rel
+ชนะ := no-drop-t-no-stat-no-int-verb-lex &
+  [ STEM < "ชนะ" >, SYNSEM.LKEYS.KEYREL.PRED "_win_v_rel" ].
+
+ 
+ถู := no-drop-t-no-stat-int-verb-lex & [ STEM < "ถู" >, SYNSEM.LKEYS.KEYREL.PRED "_scrub_v_1_rel" ].
+
+ผลัด := no-drop-t-no-stat-int-verb-lex & [ STEM < "ผลัด" >, SYNSEM.LKEYS.KEYREL.PRED "_change_v_1_rel" ].
+
+แบ่ง := no-drop-t-no-stat-int-verb-lex & [ STEM < "แบ่ง" >, SYNSEM.LKEYS.KEYREL.PRED "_divide_v_1_rel" ].
+
+ทิ้ง := no-drop-t-no-stat-int-verb-lex & [ STEM < "ทิ้ง" >, SYNSEM.LKEYS.KEYREL.PRED "_abandon_v_1_rel" ].
+
+หัก := no-drop-t-no-stat-int-verb-lex & [ STEM < "หัก" >, SYNSEM.LKEYS.KEYREL.PRED "_break_v_1_rel" ].
+
+ยับเยิน := no-drop-t-no-stat-int-verb-lex & [ STEM < "ยับเยิน" >, SYNSEM.LKEYS.KEYREL.PRED "_crush_v_1_rel" ].
+
+มองดู := no-drop-t-no-stat-int-verb-lex & [ STEM < "มองดู" >, SYNSEM.LKEYS.KEYREL.PRED "_examine_v_1_rel" ].
+
+หา_1 := no-drop-t-no-stat-int-verb-lex & [ STEM < "หา" >, SYNSEM.LKEYS.KEYREL.PRED "_visit_v_1_rel" ].
+
+สูบ := no-drop-t-no-stat-int-verb-lex & [ STEM < "สูบ" >, SYNSEM.LKEYS.KEYREL.PRED "_smoke_v_1_rel" ].
+
+ฆ่า := no-drop-t-no-stat-int-verb-lex & [ STEM < "ฆ่า" >, SYNSEM.LKEYS.KEYREL.PRED "_kill_v_1_rel" ].
+
+
+
+
+
+;;; Copula Verb
+ 
+อยู่_4483_l := locative-verb-lex & [ STEM < "อยู่" >, SYNSEM.LKEYS.KEYREL.PRED "_be+located_v_rel" ].
+ 
+;;; Negative Copula
+ 
+ไม่ใช่_25318 := negative-copula-lex & [ STEM < "ไม่ใช่" >, SYNSEM.LKEYS.KEYREL.PRED "neg_rel" ].
+ 
+;;; Ditransitive Verb
+ 
+ให้_4430 := drop-io-dt-verb-lex & [ STEM < "ให้" >, SYNSEM.LKEYS.KEYREL.PRED "_give_v_1_rel" ].
+ 
+;_like_v_1_rel
+ชอบ_4465 := drop-io-dt-verb-lex &
+  [ STEM < "ชอบ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_like_v_1_rel" ].
+
+;feed_v_rel
+ป้อน := drop-dt-no-stat-int-verb-lex &
+  [ STEM < "ป้อน" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_feed_v_1_rel" ].
+
+;;; Causative
+ 
+ทำให้_201849 := causative-verb-lex & [ STEM < "ทำให้" >, SYNSEM.LKEYS.KEYREL.PRED "_cause_v_rel" ].
+ 
+;;; Clause Embedding Verbs
+ 
+คิด_4460 := emb-d-verb-lex & [ STEM < "คิด" >, SYNSEM.LKEYS.KEYREL.PRED "_think_v_1_rel" ].
+ 
+ทราบ_4509 := emb-d-verb-lex & [ STEM < "ทราบ" >, SYNSEM.LKEYS.KEYREL.PRED "_know_v_1_rel" ].
+ 
+ถาม_5138 := emb-q-verb-lex & [ STEM < "ถาม" >, SYNSEM.LKEYS.KEYREL.PRED "_ask_v_rel" ].
+ 
+;;; Predicating Auxiliaries
+ไม่ := neg-aux-lex & [STEM < "ไม่" >, SYNSEM.LKEYS.KEYREL.PRED "neg_rel" ].
+
+ยอม_33226 := epistemic-aux-lex & [ STEM < "ยอม" >, SYNSEM.LKEYS.KEYREL.PRED "_allow_auxv_rel" ].
+ 
+ต้อง_4355 := epistemic-aux-lex & [ STEM < "ต้อง" >, SYNSEM.LKEYS.KEYREL.PRED "_must_v_modal_rel" ].
+ 
+ชอบ_25089 := epistemic-aux-lex & [ STEM < "ชอบ" >, SYNSEM.LKEYS.KEYREL.PRED "_like_v_rel" ].
+ 
+ไหว_33092 := pot-aux-lex & [ STEM < "ไหว" >, SYNSEM.LKEYS.KEYREL.PRED "_able_a_1_rel" ].
+ 
+ได้_33091 := pot-aux-lex & [ STEM < "ได้" >, SYNSEM.LKEYS.KEYREL.PRED "_can_v_modal_rel" ].
+ 
+;;; Non-predicating Aspect Markers
+ 
+จะ_33089 := imminent-aux-lex & [ STEM < "จะ" >, SYNSEM.LOCAL.CONT.HOOK.INDEX.E.ASPECT.SOON + ].
+ 
+กำลัง_7363 := tam1-aux-lex & [ STEM < "กำลัง" >, SYNSEM.LOCAL.CONT.HOOK.INDEX.E.ASPECT.PROGRESS + ].
+ 
+ได้_18360 := tam1-aux-lex & [ STEM < "ได้" >, SYNSEM.LOCAL.CONT.HOOK.INDEX.E.ASPECT.GET + ].
+ 
+เคย_33224 := tam1-aux-lex & [ STEM < "เคย" >, SYNSEM.LOCAL.CONT.HOOK.INDEX.E.ASPECT.EVER + ].
+ 
+แล้ว_18361 := tam2-aux-lex & [ STEM < "แล้ว" >, SYNSEM.LOCAL.CONT.HOOK.INDEX.E.ASPECT.ALREADY + ].
+ 
+อยู่_25414 := tam2-aux-lex & [ STEM < "อยู่" >, SYNSEM.LOCAL.CONT.HOOK.INDEX.E.ASPECT.CONTIN + ].
+ 
+ขึ้น_33144 := tam2-aux-lex & [ STEM < "ขึ้น" >, SYNSEM.LOCAL.CONT.HOOK.INDEX.E.ASPECT.SEMIPERFV + ].
+ 
+มา_18362 := tam2-aux-lex & [ STEM < "มา" >, SYNSEM.LOCAL.CONT.HOOK.INDEX.E.ASPECT.PERF + ].
+ 
+เสร็จ_33227 := tam2-aux-lex & [ STEM < "เสร็จ" >, SYNSEM.LOCAL.CONT.HOOK.INDEX.E.ASPECT.PERFV + ].
+ 
+ 
+;;; Complementizers
+ 
+ว่า_4437_q := ques-complementizer-lex & [ STEM < "ว่า" > ].
+ 
+ว่า_4437_p := prop-complementizer-lex & [ STEM < "ว่า" > ].
+ 
+;;; Case marking preposition
+ 
+แก่_11642 := case-marker-p-lex & [ STEM < "แก่" > ].
+ 
+;;; Prepositions
+ 
+ที่_4484 := prep-lex & [ STEM < "ที่" >, SYNSEM.LKEYS.KEYREL.PRED "_at_p_rel" ].
+ 
+ใน_4798 := prep-lex & [ STEM < "ใน" >, SYNSEM.LKEYS.KEYREL.PRED "_in_p_rel" ].
+ 
+ของ_4449 := prep-lex & [ STEM < "ของ" >, SYNSEM.LKEYS.KEYREL.PRED "_of_p_rel" ].
+ 
+ติด_33228 := prep-lex & [ STEM < "ติด" >, SYNSEM.LKEYS.KEYREL.PRED "_attached_p_rel" ].
+ 
+เกี่ยวกับ_219459 := prep-lex & [ STEM < "เกี่ยวกับ" >, SYNSEM.LKEYS.KEYREL.PRED "_about_p_rel" ].
+ 
+บน_4807 := prep-lex & [ STEM < "บน" >, SYNSEM.LKEYS.KEYREL.PRED "_on_p_rel" ].
+
+กับ := prep-lex & [ STEM < "กับ" >, SYNSEM.LKEYS.KEYREL.PRED "_with_p_rel" ].
+
+จาก := prep-lex & [ STEM < "จาก" >, SYNSEM.LKEYS.KEYREL.PRED "_from_p_rel" ].
+
+;;; Particles
+ 
+ไหม_4446 := qpart-lex & [ STEM < "ไหม" > ].
+ 
+หรือเปล่า_202126 := qpart-lex & [ STEM < "หรือเปล่า" > ].
+ 
+หรือยัง_206535 := qpart-lex & [ STEM < "หรือยัง" > ].
+ 
+;ไม่_33082 := neg-adv-lex & [ STEM < "ไม่" >, SYNSEM.LKEYS.KEYREL.PRED "neg_rel" ].
+ 
+และ_4276 := conj-lex & [ STEM < "และ" >, SYNSEM.LKEYS.KEYREL.PRED "_and_c_rel", CFORM coord-mode-1 ].
+ 
+ก็ := conj-lex & [ STEM < "ก็" >, SYNSEM.LKEYS.KEYREL.PRED "_then_c_rel", CFORM coord-mode-1 ].
+
+แล้ว := conj-lex & [ STEM < "แล้ว" >, SYNSEM.LKEYS.KEYREL.PRED "_then_c_rel", CFORM coord-mode-1 ].
+
+แต่ := conj-lex & [ STEM < "แต่" >, SYNSEM.LKEYS.KEYREL.PRED "_but_c_rel", CFORM coord-mode-1 ].
+
+;;; Adjectives
+ 
+;_new_a_1_rel
+ใหม่_4123 := attr-adjective-lex &
+  [ STEM < "ใหม่" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_new_a_1_rel" ].
+ 
+;_tall_a_1_rel
+สูง_4406 := attr-adjective-lex &
+  [ STEM < "สูง" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_tall_a_1_rel" ].
+ 
+;_loud_a_1_rel
+ดัง_7652 := attr-adjective-lex &
+  [ STEM < "ดัง" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_loud_a_1_rel" ].
+ 
+;_old_a_1_rel
+แก่_4423 := attr-adjective-lex &
+  [ STEM < "แก่" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_old_a_1_rel" ].
+ 
+ไทย_4283 := attr-adjective-lex &
+  [ STEM < "ไทย" >, 
+    SYNSEM.LKEYS.KEYREL.PRED "_thai_a_1_rel" ].
+ 
+;_low_a_1_rel
+ต่ำ_6054 := attr-adjective-lex &
+  [ STEM < "ต่ำ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_low_a_1_rel" ].
+ 
+;_hard_a_1_rel
+แข็ง_6189 := attr-adjective-lex &
+  [ STEM < "แข็ง" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_hard_a_1_rel" ].
+ 
+;_full_a_1_rel
+เต็ม_6657 := attr-adjective-lex &
+  [ STEM < "เต็ม" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_full_a_1_rel" ].
+ 
+;_sure_a_1_rel
+แน่_7758 := attr-adjective-lex &
+  [ STEM < "แน่" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_sure_a_1_rel" ].
+ 
+;_long_a_1_rel
+ยาว_6140 := attr-adjective-lex &
+  [ STEM < "ยาว" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_long_a_1_rel" ].
+ 
+ดี_4290 := attr-adjective-lex & [ STEM < "ดี" >, SYNSEM.LKEYS.KEYREL.PRED "_good_a_1_rel" ].
+ 
+ใหญ่_4678 := attr-adjective-lex & [ STEM < "ใหญ่" >, SYNSEM.LKEYS.KEYREL.PRED "_big_a_1_rel" ].
+ 
+น่ารัก_17798 := attr-adjective-lex & [ STEM < "น่ารัก" >, SYNSEM.LKEYS.KEYREL.PRED "_cute_a_1_rel" ].
+ 
+;_fierce_a_1_rel
+ร้าย_5240 := attr-adjective-lex &
+  [ STEM < "ร้าย" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_fierce_a_1_rel" ].
+ 
+;_hot_a_1_rel
+ร้อน_4126 := attr-adjective-lex &
+  [ STEM < "ร้อน" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_hot_a_1_rel" ].
+ 
+;_soft_a_1_rel
+อ่อน_6273 := attr-adjective-lex &
+  [ STEM < "อ่อน" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_soft_a_1_rel" ].
+ 
+;_heavy_a_1_rel
+หนัก_6487 := attr-adjective-lex &
+  [ STEM < "หนัก" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_heavy_a_1_rel" ].
+ 
+;_pretty_a_1_rel
+สวย_5316 := attr-adjective-lex &
+  [ STEM < "สวย" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_pretty_a_1_rel" ].
+ 
+พอ_4586 := attr-adjective-lex & [ STEM < "พอ" >, SYNSEM.LKEYS.KEYREL.PRED "_enough_a_rel" ].
+ 
+;_hurt_a_1_rel
+เจ็บ_4121 := attr-adjective-lex &
+  [ STEM < "เจ็บ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_hurt_a_1_rel" ].
+ 
+;_dark_a_1_rel
+เข้ม_6676 := attr-adjective-lex &
+  [ STEM < "เข้ม" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_dark_a_1_rel" ].
+ 
+;_difficult_a_1_rel
+ยาก_7078 := attr-adjective-lex &
+  [ STEM < "ยาก" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_difficult_a_1_rel" ].
+ 
+ชาย_4797 := attr-adjective-lex & [ STEM < "ชาย" >, SYNSEM.LKEYS.KEYREL.PRED "_male_a_rel" ].
+ 
+เล็ก_4254 := attr-adjective-lex & [ STEM < "เล็ก" >, SYNSEM.LKEYS.KEYREL.PRED "_small_a_1_rel" ].
+ 
+สีขาว_4162 := attr-adjective-lex & [ STEM < "สีขาว" >, SYNSEM.LKEYS.KEYREL.PRED "_white_a_1_rel" ].
+ 
+สีเขียว_4191 := attr-adjective-lex & [ STEM < "สีเขียว" >, SYNSEM.LKEYS.KEYREL.PRED "_green_a_2_rel" ].
+ 
+สนุก_4224 := attr-adjective-lex & [ STEM < "สนุก" >, SYNSEM.LKEYS.KEYREL.PRED "_fun_a_1_rel" ].
+ 
+สบาย_4441 := attr-adjective-lex & [ STEM < "สบาย" >, SYNSEM.LKEYS.KEYREL.PRED "_content_a_1_rel" ].
+ 
+แห้ง_7251 := attr-adjective-lex & [ STEM < "แห้ง" >, SYNSEM.LKEYS.KEYREL.PRED "_dry_a_1_rel" ].
+ 
+เงียบ_10765 := attr-adjective-lex & [ STEM < "เงียบ" >, SYNSEM.LKEYS.KEYREL.PRED "_quiet_a_1_rel" ].
+ 
+อ้วน_4257 := attr-adjective-lex & [ STEM < "อ้วน" >, SYNSEM.LKEYS.KEYREL.PRED "_fat_a_1_rel" ].
+ 
+;_popular_a_1_rel
+นิยม_11825 := attr-adjective-lex &
+  [ STEM < "นิยม" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_popular_a_1_rel" ].
+ 
+;_short_a_1_rel
+สั้น_6501 := attr-adjective-lex &
+  [ STEM < "สั้น" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_short_a_1_rel" ].
+ 
+หิว_4229 := attr-adjective-lex & [ STEM < "หิว" >, SYNSEM.LKEYS.KEYREL.PRED "_hungry_a_1_rel" ].
+ 
+;_old_a_1_rel
+เก่า_4101 := attr-adjective-lex &
+  [ STEM < "เก่า" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_old_a_1_rel" ].
+ 
+;_vacant_a_1_rel
+ว่าง_4272 := attr-adjective-lex &
+  [ STEM < "ว่าง" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_vacant_a_1_rel" ].
+ 
+;_far_a_1_rel
+ไกล_4255 := attr-adjective-lex &
+  [ STEM < "ไกล" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_far_a_rel" ].
+ 
+;_sweet_a_1_rel
+หวาน_6289 := attr-adjective-lex &
+  [ STEM < "หวาน" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_sweet_a_1_rel" ].
+ 
+;_slow_a_1_rel
+ช้า_4909 := attr-adjective-lex &
+  [ STEM < "ช้า" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_slow_a_1_rel" ].
+ 
+;_deep_a_1_rel
+ลึก_6987 := attr-adjective-lex &
+  [ STEM < "ลึก" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_deep_a_1_rel" ].
+ 
+;_level_a_1_rel
+เสมอ_4516 := attr-adjective-lex &
+  [ STEM < "เสมอ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_level_a_1_rel" ].
+ 
+;_calm_a_1_rel
+สงบ_5691 := attr-adjective-lex &
+  [ STEM < "สงบ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_calm_a_1_rel" ].
+ 
+;_gentle_a_1_rel
+เบา_8823 := attr-adjective-lex &
+  [ STEM < "เบา" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_gentle_a_1_rel" ].
+ 
+;_flat_a_1_rel
+ราบ_7455 := attr-adjective-lex &
+  [ STEM < "ราบ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_flat_a_1_rel" ].
+ 
+;_boiled_a_1_rel
+ต้ม_5456 := attr-adjective-lex &
+  [ STEM < "ต้ม" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_boiled_a_2_rel" ].
+ 
+;_ripe_a_1_rel
+สุก_4399 := attr-adjective-lex &
+  [ STEM < "สุก" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_ripe_a_1_rel" ].
+ 
+;smart_a_1_rel
+ฉลาด_4258 := attr-adjective-lex &
+  [ STEM < "ฉลาด" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_smart_a_1_rel" ].
+ 
+;_lonely_a_1_rel
+เหงา_16856 := attr-adjective-lex &
+  [ STEM < "เหงา" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_lonely_a_1_rel" ].
+ 
+;_sour_a_1_rel
+เปรี้ยว_9006 := attr-adjective-lex &
+  [ STEM < "เปรี้ยว" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_sour_a_1_rel" ].
+ 
+;_angry_a_1_rel
+โกรธ_4362 := attr-adjective-lex &
+  [ STEM < "โกรธ" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_angry_a_1_rel" ].
+ 
+;_gay_a_1_rel
+เกย์_4723 := attr-adjective-lex &
+  [ STEM < "เกย์" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_gay_a_1_rel" ].
+ 
+;_salty_a_1_rel
+เค็ม_8289 := attr-adjective-lex &
+  [ STEM < "เค็ม" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_salty_a_1_rel" ].
+ 
+;_tapered_a_1_rel
+เรียว_15051 := attr-adjective-lex &
+  [ STEM < "เรียว" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_tapered_a_1_rel" ].
+ 
+;_spicy_a_1_rel
+เผ็ด_4166 := attr-adjective-lex &
+  [ STEM < "เผ็ด" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_spicy_a_1_rel" ].
+ 
+;_foolish_a_1_rel
+โง่_4335 := attr-adjective-lex &
+  [ STEM < "โง่" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_foolish_a_1_rel" ].
+ 
+;_bare_a_1_rel
+เปลือย_12277 := attr-adjective-lex &
+  [ STEM < "เปลือย" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_bare_a_1_rel" ].
+ 
+;_thin_a_1_rel
+ผอม_6511 := attr-adjective-lex &
+  [ STEM < "ผอม" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_thin_a_1_rel" ].
+ 
+;_shallow_a_1_rel
+ตื้น_10673 := attr-adjective-lex &
+  [ STEM < "ตื้น" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_shallow_a_1_rel" ].
+ 
+;_furious_a_1_rel
+โมโห_4363 := attr-adjective-lex &
+  [ STEM < "โมโห" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_furious_a_1_rel" ].
+ 
+;_stunted_a_1_rel
+งัน_24886 := attr-adjective-lex &
+  [ STEM < "งัน" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_stunted_a_1_rel" ].
+
+;red_a_rel
+สีแดง :=  attr-adjective-lex &
+  [ STEM < "สีแดง" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_red_a_1_rel" ].
+
+;large_a_rel
+โต :=  attr-adjective-lex &
+  [ STEM < "โต" >,
+    SYNSEM.LKEYS.KEYREL.PRED "_large_a_1_rel" ].
+
+;;; Numbers
+ 
+ศูนย์_4172 := number-lex & [ STEM < "ศูนย์" >, SYNSEM.LKEYS.KEYREL.CARG "0" ].
+ 
+หนึ่ง_4173 := base-number-lex & [ STEM < "หนึ่ง" >, SYNSEM.LKEYS.KEYREL.CARG "1" ].
+ 
+สอง_4174 := number-lex & [ STEM < "สอง" >, SYNSEM.LKEYS.KEYREL.CARG "2" ].
+ 
+สาม_4175 := number-lex & [ STEM < "สาม" >, SYNSEM.LKEYS.KEYREL.CARG "3" ].
+ 
+สี่_4176 := number-lex & [ STEM < "สี่" >, SYNSEM.LKEYS.KEYREL.CARG "4" ].
+ 
+ห้า_4177 := number-lex & [ STEM < "ห้า" >, SYNSEM.LKEYS.KEYREL.CARG "5" ].
+ 
+หก_4178 := number-lex & [ STEM < "หก" >, SYNSEM.LKEYS.KEYREL.CARG "6" ].
+ 
+เจ็ด_4179 := number-lex & [ STEM < "เจ็ด" >, SYNSEM.LKEYS.KEYREL.CARG "7" ].
+ 
+แปด_4180 := number-lex & [ STEM < "แปด" >, SYNSEM.LKEYS.KEYREL.CARG "8" ].
+ 
+เก้า_4100 := number-lex & [ STEM < "เก้า" >, SYNSEM.LKEYS.KEYREL.CARG "9" ].
+ 
+สิบ_4181 := number-lex & [ STEM < "สิบ" >, SYNSEM.LKEYS.KEYREL.CARG "10" ].
+ 
+;;; Adverbs
+ 
+ด้วย_4248 := adverb-lex & [ STEM < "ด้วย" >, SYNSEM.LKEYS.KEYREL.PRED "_along_r_rel" ].
+ 
+ตั้งแต่เช้า_219873 := adverb-lex & [ STEM < "ตั้งแต่เช้า" >, SYNSEM.LKEYS.KEYREL.PRED "_since-morning_r_rel" ].
+ 
+เร็ว_36563 := adverb-lex & [ STEM < "เร็ว" >, SYNSEM.LKEYS.KEYREL.PRED "_fast_a_1_rel" ].
+ 
+เงียบๆ_33275 := adverb-lex & [ STEM < "เงียบๆ" >, SYNSEM.LKEYS.KEYREL.PRED "_quiet_a_1_rel" ].
+
+ก่อน := adverb-lex & [ STEM < "ก่อน" >, SYNSEM.LKEYS.KEYREL.PRED "_before_a_1_rel" ].
+
+เมื่อวาน := adverb-lex & [ STEM < "เมื่อวาน" >, SYNSEM.LKEYS.KEYREL.PRED "_yesterday_a_1_rel" ].
+
+อ้อยอิ่ง := adverb-lex & [ STEM < "อ้อยอิ่ง" >, SYNSEM.LKEYS.KEYREL.PRED "_sluggishly_a_1_rel" ].
+
+เกะกะ := adverb-lex & [ STEM < "เกะกะ" >, SYNSEM.LKEYS.KEYREL.PRED "_rowdily_a_1_rel" ].

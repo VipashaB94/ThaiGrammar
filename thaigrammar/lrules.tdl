@@ -1,0 +1,23 @@
+;;; -*- Mode: TDL; Coding: utf-8 -*-
+dir-deic-trans-svc-lex := dir-deic-trans-svc-lex-rule.
+dir-deic-intrans-svc-lex := dir-deic-intrans-svc-lex-rule.
+simultaneous-trans-svc-lex := simultaneous-trans-svc-lex-rule.
+simultaneous-intrans-svc-lex := simultaneous-intrans-svc-lex-rule.
+deic-purpose-trans-svc-lex := deic-purpose-trans-svc-lex-rule.
+deic-purpose-intrans-svc-lex := deic-purpose-intrans-svc-lex-rule.
+resultative-dir-trans-svc-lex := res-dir-trans-svc-lex-rule.
+resultative-nodir-trans-svc-lex := res-nodir-trans-svc-lex-rule.
+resultative-dir-intrans-svc-lex := res-dir-intrans-svc-lex-rule.
+resultative-nodir-intrans-svc-lex := res-nodir-intrans-svc-lex-rule.
+resultative-dir-switch-svc-lex := res-dir-switch-svc-lex-rule.
+resultative-nodir-switch-svc-lex := res-nodir-switch-svc-lex-rule.
+sequential-svc-lex := sequential-svc-lex-rule.
+open-purpose-svc-lex := open-purpose-svc-lex-rule.
+
+;Interactions
+deic-purpose-interact-trans-svc-lex := deic-purpose-interact-trans-svc-lex-rule.
+deic-purpose-interact-intrans-svc-lex := deic-purpose-interact-intrans-svc-lex-rule.
+
+res-interact-trans-svc-lex := res-interact-trans-svc-lex-rule.
+res-interact-intrans-svc-lex := res-interact-intrans-svc-lex-rule.
+res-interact-switch-svc-lex := res-interact-switch-svc-lex-rule.

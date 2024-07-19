@@ -1,0 +1,70 @@
+head-comp := head-comp-phrase.
+ 
+subj-head := subj-head-phrase.
+ 
+head-spec := head-spec-phrase.
+ 
+bare-np := bare-np-phrase.
+ 
+cd-comp-head := cd-comp-head-phrase.
+ 
+v-comp-head := v-comp-head-phrase.
+ 
+d-comp-head := d-comp-head-phrase.
+ 
+pred-adj := pred-adj-lex.
+ 
+; Rule instances for head-modifier structures. Corresponding types
+; are defined in matrix.tdl.  The matrix customization script did
+; not need to add any further constraints, so no corresponding tyes
+; appear in thai.tdl
+ 
+head-adj-int := head-adj-int-phrase.
+ 
+head-adj-scop := head-adj-scop-phrase.
+ 
+adj-head-scop := adj-head-scop-phrase.
+ 
+n1-top-coord := n1-top-coord-rule.
+ 
+n1-mid-coord := n1-mid-coord-rule.
+ 
+n1-bottom-coord := n1-bottom-coord-rule.
+ 
+np1-top-coord := np1-top-coord-rule.
+ 
+np1-mid-coord := np1-mid-coord-rule.
+ 
+np1-bottom-coord := np1-bottom-coord-rule.
+ 
+;vp1-top-coord := vp1-top-coord-rule.
+ 
+vp1-mid-coord := vp1-mid-coord-rule.
+ 
+vp1-bottom-coord := vp1-bottom-coord-rule.
+ 
+s1-top-coord := s1-top-coord-rule.
+ 
+s1-mid-coord := s1-mid-coord-rule.
+ 
+s1-bottom-coord := s1-bottom-coord-rule.
+ 
+;vp2-top-coord := vp2-top-coord-rule.
+ 
+;vp2-bottom-coord := vp2-bottom-coord-rule.
+ 
+drop-subj := decl-head-opt-subj-phrase.
+ 
+drop-obj := basic-head-opt-comp-phrase.
+
+;Rules for SVCs
+short-directional-svc := short-directional-svc-phrase.
+long-directional-svc := long-directional-svc-phrase.
+long-dir-deic-svc := long-dir-deic-svc-phrase.
+
+first-dir-deic-purpose-svc := first-dir-deic-purpose-svc-phrase.
+first-dir-deic-simultaneous-svc := first-dir-deic-sim-svc-phrase.
+first-directional-resultative-svc := first-directional-resultative-svc-phrase.
+first-simultaneous-resultative-svc := first-simultaneous-resultative-svc-phrase.
+dir-deic-open-purpose-purp-svc := dir-deic-open-purpose-purp-svc-phrase.
+dir-deic-open-purpose-sim-svc := dir-deic-open-purpose-sim-svc-phrase.
